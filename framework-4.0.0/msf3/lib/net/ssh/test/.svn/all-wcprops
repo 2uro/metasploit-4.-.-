@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8527/framework3/trunk/lib/net/ssh/test
+END
+extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/extensions.rb
+END
+local_packet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/local_packet.rb
+END
+remote_packet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/remote_packet.rb
+END
+script.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/script.rb
+END
+kex.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/kex.rb
+END
+packet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/packet.rb
+END
+channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/test/channel.rb
+END
+socket.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8527/framework3/trunk/lib/net/ssh/test/socket.rb
+END

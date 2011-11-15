@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix
+END
+bind_ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/bind_ruby.rb
+END
+reverse_perl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/reverse_perl.rb
+END
+bind_perl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/bind_perl.rb
+END
+bind_inetd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/bind_inetd.rb
+END
+reverse_bash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/reverse_bash.rb
+END
+interact.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/interact.rb
+END
+reverse_netcat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/reverse_netcat.rb
+END
+bind_netcat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/bind_netcat.rb
+END
+reverse.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/reverse.rb
+END
+generic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/generic.rb
+END
+reverse_ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/unix/reverse_ruby.rb
+END

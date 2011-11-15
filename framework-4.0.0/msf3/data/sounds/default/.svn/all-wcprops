@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default
+END
+session.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/session.wav
+END
+num4.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num4.wav
+END
+port.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/port.wav
+END
+num5.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num5.wav
+END
+address.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/address.wav
+END
+num6.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num6.wav
+END
+dot.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/dot.wav
+END
+num7.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num7.wav
+END
+num8.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num8.wav
+END
+num9.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num9.wav
+END
+session_open_shell.wav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/session_open_shell.wav
+END
+plugin_load.wav
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/plugin_load.wav
+END
+plugin_unload.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/plugin_unload.wav
+END
+closed.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/closed.wav
+END
+session_open_vnc.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/session_open_vnc.wav
+END
+opened.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/opened.wav
+END
+num0.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num0.wav
+END
+num1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num1.wav
+END
+num2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num2.wav
+END
+num3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/num3.wav
+END
+session_open_meterpreter.wav
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14221/framework3/trunk/data/sounds/default/session_open_meterpreter.wav
+END

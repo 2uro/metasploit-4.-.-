@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13715/framework3/trunk/modules/auxiliary/admin/emc
+END
+alphastor_librarymanager_exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9582/framework3/trunk/modules/auxiliary/admin/emc/alphastor_librarymanager_exec.rb
+END
+alphastor_devicemanager_exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/13715/framework3/trunk/modules/auxiliary/admin/emc/alphastor_devicemanager_exec.rb
+END

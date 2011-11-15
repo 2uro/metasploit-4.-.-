@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12988/framework3/trunk/lib/msf/core/post/solaris
+END
+priv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12988/framework3/trunk/lib/msf/core/post/solaris/priv.rb
+END
+system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12988/framework3/trunk/lib/msf/core/post/solaris/system.rb
+END

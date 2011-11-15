@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/spoof/wifi
+END
+airpwn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/spoof/wifi/airpwn.rb
+END
+dnspwn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13342/framework3/trunk/modules/auxiliary/spoof/wifi/dnspwn.rb
+END

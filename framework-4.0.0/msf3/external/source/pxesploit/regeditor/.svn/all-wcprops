@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor
+END
+addmsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor/addmsf.c
+END
+ntreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor/ntreg.c
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor/compile.sh
+END
+ntreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor/ntreg.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor/README.txt
+END
+LGPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13534/framework3/trunk/external/source/pxesploit/regeditor/LGPL.txt
+END

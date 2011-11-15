@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/alpha2
+END
+alpha_upper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/alpha2/alpha_upper.rb
+END
+unicode_upper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/alpha2/unicode_upper.rb
+END
+alpha_mixed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/alpha2/alpha_mixed.rb
+END
+generic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/alpha2/generic.rb
+END
+unicode_mixed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/alpha2/unicode_mixed.rb
+END

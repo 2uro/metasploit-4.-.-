@@ -1,0 +1,1085 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8
+END
+jpeg.sln
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpeg.sln
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemansi.c
+END
+makerdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makerdep.vc6
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jchuff.c
+END
+djpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/djpeg.1
+END
+makedvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makedvcp.vc9
+END
+jmemmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemmac.c
+END
+djpeg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/djpeg.vcproj
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/ltmain.sh
+END
+transupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/transupp.c
+END
+apps.sln
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/apps.sln
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcparam.c
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/transupp.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/configure.ac
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jquant1.c
+END
+jconfig.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.bcc
+END
+jdosaobj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdosaobj.txt
+END
+wrjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrjpgcom.c
+END
+maketvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/maketvcp.vc9
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdmarker.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmorecfg.h
+END
+rdcolmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdcolmap.c
+END
+usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/usage.txt
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jinclude.h
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpegint.h
+END
+jpeg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpeg.vcproj
+END
+rdrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdrle.c
+END
+makecvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makecvcp.vc9
+END
+libjpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/libjpeg.txt
+END
+makewmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makewmak.vc6
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdinput.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpeglib.h
+END
+makefile.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.bcc
+END
+jconfig.sas
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.sas
+END
+rdjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdjpgcom.1
+END
+rdtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdtarga.c
+END
+testimg.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/testimg.ppm
+END
+makewdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makewdsp.vc6
+END
+jconfig.wat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.wat
+END
+djpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/djpeg.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdpostct.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemsys.h
+END
+cdjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/cdjpeg.c
+END
+makefile.manx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.manx
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/cdjpeg.h
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.vc
+END
+rdbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdbmp.c
+END
+ansi2knr.1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/ansi2knr.1
+END
+wrppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrppm.c
+END
+cjpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/cjpeg.1
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jfdctfst.c
+END
+filelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/filelist.txt
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcmaster.c
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdmaster.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/config.guess
+END
+wrjpgcom.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrjpgcom.vcproj
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jidctfst.c
+END
+wrgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrgif.c
+END
+makejvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makejvcp.vc9
+END
+makefile.sas
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.sas
+END
+makejdsw.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makejdsw.vc6
+END
+coderules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/coderules.txt
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jquant2.c
+END
+makefile.wat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.wat
+END
+makefile.mms
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.mms
+END
+makervcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makervcp.vc9
+END
+jmemname.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemname.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdct.h
+END
+jpegtran.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpegtran.vcproj
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdatasrc.c
+END
+jmemdosa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemdosa.asm
+END
+jconfig.manx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.manx
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdapistd.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jversion.h
+END
+rdjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdjpgcom.c
+END
+libjpeg.map
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/libjpeg.map
+END
+makeadsw.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makeadsw.vc6
+END
+makewdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makewdep.vc6
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/README
+END
+jconfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.txt
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdmerge.c
+END
+makvms.opt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makvms.opt
+END
+makedmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makedmak.vc6
+END
+ansi2knr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/ansi2knr.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/Makefile.am
+END
+cjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/cjpeg.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdcolor.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/install-sh
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdatadst.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/Makefile.in
+END
+jconfig.vms
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.vms
+END
+install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/install.txt
+END
+makeddsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makeddsp.vc6
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdtrans.c
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/depcomp
+END
+maketmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/maketmak.vc6
+END
+wrtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrtarga.c
+END
+jconfig.st
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.st
+END
+jaricom.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jaricom.c
+END
+change.log
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/change.log
+END
+maketdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/maketdsp.vc6
+END
+makefile.ansi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.ansi
+END
+makecmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makecmak.vc6
+END
+rdswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdswitch.c
+END
+jconfig.dj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.dj
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jccolor.c
+END
+jconfig.mac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.mac
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jfdctflt.c
+END
+makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.vms
+END
+makecdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makecdsp.vc6
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jctrans.c
+END
+cjpeg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/cjpeg.vcproj
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcprepct.c
+END
+jconfig.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.mc6
+END
+rdppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdppm.c
+END
+ckconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/ckconfig.c
+END
+makejsln.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makejsln.vc9
+END
+jdarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdarith.c
+END
+makeddep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makeddep.vc6
+END
+makdjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makdjpeg.st
+END
+makeproj.mac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makeproj.mac
+END
+rdjpgcom.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdjpgcom.vcproj
+END
+jpegtran.1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpegtran.1
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdmainct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdapimin.c
+END
+rdgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/rdgif.c
+END
+wrrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrrle.c
+END
+jconfig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.cfg
+END
+makejmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makejmak.vc6
+END
+makewvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makewvcp.vc9
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jddctmgr.c
+END
+makljpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makljpeg.st
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/configure
+END
+readme.dos
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/readme.dos
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jerror.c
+END
+makermak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makermak.vc6
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdhuff.c
+END
+maketdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/maketdep.vc6
+END
+maktjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/maktjpeg.st
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jerror.h
+END
+makeasln.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makeasln.vc9
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemnobs.c
+END
+makejdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makejdsp.vc6
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/config.sub
+END
+makefile.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.mc6
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcinit.c
+END
+makerdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makerdsp.vc6
+END
+jcarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcarith.c
+END
+makecdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makecdep.vc6
+END
+makcjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makcjpeg.st
+END
+wrbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrbmp.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/example.c
+END
+structure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/structure.txt
+END
+jmemdos.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jmemdos.c
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jfdctint.c
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/cderror.h
+END
+jconfig.vc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.vc
+END
+wrjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wrjpgcom.1
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jidctint.c
+END
+jpegtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jpegtran.c
+END
+makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.unix
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/jconfig.h
+END
+makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makefile.dj
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/missing
+END
+makejdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/makejdep.vc6
+END
+wizard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8725/framework3/trunk/external/source/meterpreter/source/jpeg-8/wizard.txt
+END

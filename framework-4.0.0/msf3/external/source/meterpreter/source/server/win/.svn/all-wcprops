@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13044/framework3/trunk/external/source/meterpreter/source/server/win
+END
+metsrv_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6949/framework3/trunk/external/source/meterpreter/source/server/win/metsrv_test.c
+END
+remote_dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13044/framework3/trunk/external/source/meterpreter/source/server/win/remote_dispatch.c
+END
+metsrv.def
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6949/framework3/trunk/external/source/meterpreter/source/server/win/metsrv.def
+END
+libloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6949/framework3/trunk/external/source/meterpreter/source/server/win/libloader.c
+END

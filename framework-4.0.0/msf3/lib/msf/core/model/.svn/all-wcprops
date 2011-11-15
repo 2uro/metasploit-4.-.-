@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13807/framework3/trunk/lib/msf/core/model
+END
+campaign.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12977/framework3/trunk/lib/msf/core/model/campaign.rb
+END
+imported_cred.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/model/imported_cred.rb
+END
+activerecord_patches.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9823/framework3/trunk/lib/msf/core/model/activerecord_patches.rb
+END
+web_vuln.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10523/framework3/trunk/lib/msf/core/model/web_vuln.rb
+END
+email_template.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11236/framework3/trunk/lib/msf/core/model/email_template.rb
+END
+listener.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13024/framework3/trunk/lib/msf/core/model/listener.rb
+END
+workspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13405/framework3/trunk/lib/msf/core/model/workspace.rb
+END
+web_form.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10523/framework3/trunk/lib/msf/core/model/web_form.rb
+END
+service.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12273/framework3/trunk/lib/msf/core/model/service.rb
+END
+profile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13202/framework3/trunk/lib/msf/core/model/profile.rb
+END
+web_site.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10531/framework3/trunk/lib/msf/core/model/web_site.rb
+END
+report_template.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/model/report_template.rb
+END
+web_template.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10494/framework3/trunk/lib/msf/core/model/web_template.rb
+END
+tag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/model/tag.rb
+END
+report.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9198/framework3/trunk/lib/msf/core/model/report.rb
+END
+loot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9198/framework3/trunk/lib/msf/core/model/loot.rb
+END
+host.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13807/framework3/trunk/lib/msf/core/model/host.rb
+END
+cred.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13156/framework3/trunk/lib/msf/core/model/cred.rb
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10601/framework3/trunk/lib/msf/core/model/client.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9198/framework3/trunk/lib/msf/core/model/user.rb
+END
+event.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9198/framework3/trunk/lib/msf/core/model/event.rb
+END
+api_key.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12755/framework3/trunk/lib/msf/core/model/api_key.rb
+END
+session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12377/framework3/trunk/lib/msf/core/model/session.rb
+END
+session_event.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12325/framework3/trunk/lib/msf/core/model/session_event.rb
+END
+vuln.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7861/framework3/trunk/lib/msf/core/model/vuln.rb
+END
+attachment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10618/framework3/trunk/lib/msf/core/model/attachment.rb
+END
+exploited_host.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/model/exploited_host.rb
+END
+serialized_prefs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10494/framework3/trunk/lib/msf/core/model/serialized_prefs.rb
+END
+email_address.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10301/framework3/trunk/lib/msf/core/model/email_address.rb
+END
+route.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12377/framework3/trunk/lib/msf/core/model/route.rb
+END
+macro.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12879/framework3/trunk/lib/msf/core/model/macro.rb
+END
+task.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13011/framework3/trunk/lib/msf/core/model/task.rb
+END
+nexpose_console.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13074/framework3/trunk/lib/msf/core/model/nexpose_console.rb
+END
+note.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12273/framework3/trunk/lib/msf/core/model/note.rb
+END
+web_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10523/framework3/trunk/lib/msf/core/model/web_page.rb
+END
+wmap_target.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7861/framework3/trunk/lib/msf/core/model/wmap_target.rb
+END
+mod_ref.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13806/framework3/trunk/lib/msf/core/model/mod_ref.rb
+END
+ref.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7861/framework3/trunk/lib/msf/core/model/ref.rb
+END
+cred_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12908/framework3/trunk/lib/msf/core/model/cred_file.rb
+END
+wmap_request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7861/framework3/trunk/lib/msf/core/model/wmap_request.rb
+END

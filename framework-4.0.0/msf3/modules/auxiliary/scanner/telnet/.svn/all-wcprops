@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/telnet
+END
+telnet_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10366/framework3/trunk/modules/auxiliary/scanner/telnet/telnet_version.rb
+END
+telnet_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/telnet/telnet_login.rb
+END

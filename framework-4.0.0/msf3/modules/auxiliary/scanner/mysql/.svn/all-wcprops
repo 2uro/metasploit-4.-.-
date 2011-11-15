@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/mysql
+END
+mysql_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/mysql/mysql_login.rb
+END
+mysql_hashdump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13854/framework3/trunk/modules/auxiliary/scanner/mysql/mysql_hashdump.rb
+END
+mysql_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9804/framework3/trunk/modules/auxiliary/scanner/mysql/mysql_version.rb
+END

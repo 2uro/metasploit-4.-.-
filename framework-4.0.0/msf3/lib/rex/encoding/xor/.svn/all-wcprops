@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor
+END
+dword.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/dword.rb
+END
+dword_additive.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/dword_additive.rb.ut.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/exceptions.rb
+END
+byte.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/byte.rb
+END
+word.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/word.rb.ut.rb
+END
+generic.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/generic.rb.ut.rb
+END
+dword.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/dword.rb.ut.rb
+END
+dword_additive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/dword_additive.rb
+END
+word.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/word.rb
+END
+byte.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/byte.rb.ut.rb
+END
+generic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoding/xor/generic.rb
+END
+qword.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6972/framework3/trunk/lib/rex/encoding/xor/qword.rb
+END

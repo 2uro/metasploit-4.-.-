@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn
+END
+cmd_sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_sys.c
+END
+cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd.h
+END
+cmd_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_net.c
+END
+cmd_fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_fd.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/README
+END
+auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/auto.h
+END
+cmd_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_misc.c
+END
+Makefile.native
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/Makefile.native
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/main.c
+END
+cmd_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_proc.c
+END
+cmd_privs.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_privs.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/misc.c
+END
+cmd_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_fs.c
+END
+cmd_expl.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_expl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/Makefile
+END
+cmd_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5180/framework3/trunk/external/source/ipwn/cmd_base.c
+END

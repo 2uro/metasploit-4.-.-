@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9287/framework3/trunk/lib/rex/ole/samples
+END
+dir.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/samples/dir.rb
+END
+dump_stream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9287/framework3/trunk/lib/rex/ole/samples/dump_stream.rb
+END
+create_ole.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/samples/create_ole.rb
+END
+ole_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/samples/ole_info.rb
+END

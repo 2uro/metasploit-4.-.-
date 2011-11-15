@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11311/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam
+END
+webcam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/11160/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam/webcam.cpp
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11311/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam/audio.c
+END
+webcam.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11087/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam/webcam.h
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11087/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam/audio.h
+END
+bmp2jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10997/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam/bmp2jpeg.c
+END
+bmp2jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10997/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/webcam/bmp2jpeg.h
+END

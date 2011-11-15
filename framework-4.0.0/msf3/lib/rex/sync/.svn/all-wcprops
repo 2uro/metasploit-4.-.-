@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/sync
+END
+read_write_lock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/sync/read_write_lock.rb
+END
+event.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/sync/event.rb
+END
+thread_safe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/sync/thread_safe.rb
+END
+ref.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/sync/ref.rb
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14241/framework3/trunk/modules/post/windows/escalate
+END
+net_runtime_modify.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14230/framework3/trunk/modules/post/windows/escalate/net_runtime_modify.rb
+END
+getsystem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14241/framework3/trunk/modules/post/windows/escalate/getsystem.rb
+END
+ms10_073_kbdlayout.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12939/framework3/trunk/modules/post/windows/escalate/ms10_073_kbdlayout.rb
+END
+ms10_092_schelevator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12455/framework3/trunk/modules/post/windows/escalate/ms10_092_schelevator.rb
+END
+bypassuac.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12455/framework3/trunk/modules/post/windows/escalate/bypassuac.rb
+END
+screen_unlock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/escalate/screen_unlock.rb
+END
+service_permissions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14008/framework3/trunk/modules/post/windows/escalate/service_permissions.rb
+END

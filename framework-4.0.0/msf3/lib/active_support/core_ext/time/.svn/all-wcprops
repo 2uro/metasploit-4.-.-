@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/time
+END
+zones.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/time/zones.rb
+END
+behavior.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/time/behavior.rb
+END
+calculations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/time/calculations.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/time/conversions.rb
+END

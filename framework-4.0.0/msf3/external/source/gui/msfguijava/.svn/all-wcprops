@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14238/framework3/trunk/external/source/gui/msfguijava
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9815/framework3/trunk/external/source/gui/msfguijava/LICENSE
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9815/framework3/trunk/external/source/gui/msfguijava/manifest.mf
+END
+msgpack-0.5.1-devel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13616/framework3/trunk/external/source/gui/msfguijava/msgpack-0.5.1-devel.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9815/framework3/trunk/external/source/gui/msfguijava/build.xml
+END

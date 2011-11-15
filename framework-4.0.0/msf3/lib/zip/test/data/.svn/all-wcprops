@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14207/framework3/trunk/lib/zip/test/data
+END
+file1.txt.deflatedData
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/file1.txt.deflatedData
+END
+file2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/file2.txt
+END
+rubycode2.zip
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/rubycode2.zip
+END
+notzippedruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/notzippedruby.rb
+END
+zipWithDirs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/zipWithDirs.zip
+END
+testDirectory.bin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/testDirectory.bin
+END
+rubycode.zip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/rubycode.zip
+END
+file1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/file1.txt
+END

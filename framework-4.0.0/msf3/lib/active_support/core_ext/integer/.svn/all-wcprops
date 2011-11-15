@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/integer
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/integer/inflections.rb
+END
+time.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/integer/time.rb
+END
+even_odd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/integer/even_odd.rb
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/sap
+END
+sap_mgmt_con_getenv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_getenv.rb
+END
+sap_mgmt_con_brute_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_brute_login.rb
+END
+sap_mgmt_con_extractusers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_extractusers.rb
+END
+sap_icm_urlscan.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_icm_urlscan.rb
+END
+sap_mgmt_con_startprofile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_startprofile.rb
+END
+sap_mgmt_con_getaccesspoints.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14027/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_getaccesspoints.rb
+END
+sap_mgmt_con_getprocessparameter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_getprocessparameter.rb
+END
+sap_mgmt_con_listlogfiles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_listlogfiles.rb
+END
+sap_mgmt_con_instanceproperties.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14182/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_instanceproperties.rb
+END
+sap_mgmt_con_getlogfiles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_getlogfiles.rb
+END
+sap_service_discovery.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_service_discovery.rb
+END
+sap_mgmt_con_abaplog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_abaplog.rb
+END
+sap_mgmt_con_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/scanner/sap/sap_mgmt_con_version.rb
+END

@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 229
+/framework3/branches/feature/msf3-session/modules/auxiliary/dos/wifi:12060-12272
+/framework3/features/browser_autopwn/modules/auxiliary/dos/wireless:6266-6608,6633-6791,6839-6843
+/framework3/trunk/modules/auxiliary/dos/wifi:12538
+END

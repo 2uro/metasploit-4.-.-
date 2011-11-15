@@ -1,0 +1,10 @@
+
+production:
+  adapter: postgresql
+  database: msf3
+  username: msf3
+  password: 510060ab
+  host: 127.0.0.1
+  port: 7175
+  pool: 75
+  timeout: 5

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9766/framework3/trunk/documentation/samples/framework
+END
+enumerate_modules.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9212/framework3/trunk/documentation/samples/framework/enumerate_modules.rb
+END
+dump_module_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9766/framework3/trunk/documentation/samples/framework/dump_module_info.rb
+END
+run_exploit_using_core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9212/framework3/trunk/documentation/samples/framework/run_exploit_using_core.rb
+END
+run_exploit_using_base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9212/framework3/trunk/documentation/samples/framework/run_exploit_using_base.rb
+END
+encode_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9212/framework3/trunk/documentation/samples/framework/encode_file.rb
+END

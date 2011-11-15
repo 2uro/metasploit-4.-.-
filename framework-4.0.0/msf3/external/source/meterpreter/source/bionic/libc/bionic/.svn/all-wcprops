@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic
+END
+__set_errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/__set_errno.c
+END
+logd_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/logd_write.c
+END
+libc_init_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/libc_init_dynamic.c
+END
+realpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/realpath.c
+END
+stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/stubs.c
+END
+system_properties.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/system_properties.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/fork.c
+END
+time64_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/time64_config.h
+END
+ssp.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/ssp.c
+END
+time64.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/time64.c
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/ioctl.c
+END
+basename.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/basename.c
+END
+fdprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/fdprintf.c
+END
+bionic_clone.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/bionic_clone.c
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/semaphore.c
+END
+__errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/__errno.c
+END
+utime.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/utime.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/md5.c
+END
+malloc_debug_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/malloc_debug_common.c
+END
+utmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/utmp.c
+END
+dlmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/dlmalloc.c
+END
+pthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/pthread.c
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/hash.h
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/err.c
+END
+pthread_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/pthread_internal.h
+END
+if_nametoindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/if_nametoindex.c
+END
+if_indextoname.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/if_indextoname.c
+END
+malloc_debug_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/malloc_debug_common.h
+END
+arc4random.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/arc4random.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/md5.h
+END
+dlmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/dlmalloc.h
+END
+fts.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/fts.c
+END
+clearenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/clearenv.c
+END
+dirname_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/dirname_r.c
+END
+libc_init_static.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/libc_init_static.c
+END
+malloc_debug_qemu.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/malloc_debug_qemu.c
+END
+libc_init_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/libc_init_common.c
+END
+atomics_x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/atomics_x86.c
+END
+malloc_debug_leak.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/malloc_debug_leak.c
+END
+libc_init_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/libc_init_common.h
+END
+pthread-atfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/pthread-atfork.c
+END
+ldexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/ldexp.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/ptrace.c
+END
+dirname.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/dirname.c
+END
+rules.jam
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/rules.jam
+END
+cpuacct.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/cpuacct.c
+END
+thread_atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/thread_atexit.c
+END
+pthread-timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/pthread-timers.c
+END
+pututline.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/pututline.c
+END
+basename_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/basename_r.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/bionic/sha1.c
+END

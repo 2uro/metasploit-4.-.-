@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13741/framework3/trunk/external/source/javapayload/src/metasploit
+END
+PayloadApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11172/framework3/trunk/external/source/javapayload/src/metasploit/PayloadApplet.java
+END
+RMIPayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13187/framework3/trunk/external/source/javapayload/src/metasploit/RMIPayload.java
+END
+PayloadTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13741/framework3/trunk/external/source/javapayload/src/metasploit/PayloadTrustManager.java
+END
+Payload.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13741/framework3/trunk/external/source/javapayload/src/metasploit/Payload.java
+END
+PayloadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10781/framework3/trunk/external/source/javapayload/src/metasploit/PayloadServlet.java
+END
+RMILoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13187/framework3/trunk/external/source/javapayload/src/metasploit/RMILoader.java
+END

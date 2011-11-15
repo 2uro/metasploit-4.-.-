@@ -1,0 +1,11 @@
+K 12
+svn:keywords
+V 22
+Rev Revision Id Header
+K 13
+svn:mergeinfo
+V 282
+/framework3/branches/feature/msf3-session/modules/auxiliary/fuzzers/wifi/fuzz_beacon.rb:12060-12272
+/framework3/features/browser_autopwn/modules/auxiliary/dos/wireless/fuzz_beacon.rb:6266-6608,6633-6791,6839-6843
+/framework3/trunk/modules/auxiliary/fuzzers/wifi/fuzz_beacon.rb:12538
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8193/framework3/trunk/external/source/shellcode/windows/x64/src/single
+END
+single_exec.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6972/framework3/trunk/external/source/shellcode/windows/x64/src/single/single_exec.asm
+END
+single_shell_reverse_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6980/framework3/trunk/external/source/shellcode/windows/x64/src/single/single_shell_reverse_tcp.asm
+END
+single_shell_bind_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6980/framework3/trunk/external/source/shellcode/windows/x64/src/single/single_shell_bind_tcp.asm
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/windows/ftp
+END
+vicftps50_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9169/framework3/trunk/modules/auxiliary/dos/windows/ftp/vicftps50_list.rb
+END
+iis75_ftpd_iac_bof.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13294/framework3/trunk/modules/auxiliary/dos/windows/ftp/iis75_ftpd_iac_bof.rb
+END
+filezilla_admin_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/windows/ftp/filezilla_admin_user.rb
+END
+titan626_site.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9582/framework3/trunk/modules/auxiliary/dos/windows/ftp/titan626_site.rb
+END
+xmeasy560_nlst.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/windows/ftp/xmeasy560_nlst.rb
+END
+xmeasy570_nlst.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/windows/ftp/xmeasy570_nlst.rb
+END
+filezilla_server_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/windows/ftp/filezilla_server_port.rb
+END
+guildftp_cwdlist.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9169/framework3/trunk/modules/auxiliary/dos/windows/ftp/guildftp_cwdlist.rb
+END
+solarftp_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/windows/ftp/solarftp_user.rb
+END
+winftp230_nlst.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9169/framework3/trunk/modules/auxiliary/dos/windows/ftp/winftp230_nlst.rb
+END

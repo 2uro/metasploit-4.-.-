@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12924/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/registry_subsystem
+END
+registry_key.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/registry_subsystem/registry_key.rb
+END
+registry_value.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/registry_subsystem/registry_value.rb
+END
+remote_registry_key.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12924/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/registry_subsystem/remote_registry_key.rb
+END

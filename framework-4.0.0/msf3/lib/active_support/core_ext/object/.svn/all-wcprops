@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object
+END
+extending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object/extending.rb
+END
+blank.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object/blank.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object/conversions.rb
+END
+misc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object/misc.rb
+END
+instance_variables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object/instance_variables.rb
+END
+metaclass.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/object/metaclass.rb
+END

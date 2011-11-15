@@ -1,0 +1,863 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/libjpeg
+END
+filelist.doc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/filelist.doc
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemansi.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jchuff.c
+END
+djpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/djpeg.1
+END
+coderules.doc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/coderules.doc
+END
+jmemmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemmac.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jchuff.h
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/ltmain.sh
+END
+transupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/transupp.c
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcparam.c
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/transupp.h
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jquant1.c
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/ltconfig
+END
+jconfig.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.bcc
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcphuff.c
+END
+wrjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrjpgcom.c
+END
+libjpeg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/libjpeg/libjpeg.vcproj
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdmarker.c
+END
+rdcolmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdcolmap.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jinclude.h
+END
+jconfig.doc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.doc
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jpegint.h
+END
+rdrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdrle.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdinput.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jpeglib.h
+END
+makefile.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.bcc
+END
+rdjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdjpgcom.1
+END
+jconfig.sas
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.sas
+END
+rdtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdtarga.c
+END
+jconfig.wat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.wat
+END
+install.doc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/install.doc
+END
+djpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/djpeg.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdpostct.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemsys.h
+END
+cdjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/cdjpeg.c
+END
+makefile.manx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.manx
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/cdjpeg.h
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.vc
+END
+rdbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdbmp.c
+END
+ansi2knr.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/ansi2knr.1
+END
+wrppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrppm.c
+END
+cjpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/cjpeg.1
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcmaster.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/config.guess
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdmaster.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jidctfst.c
+END
+wrgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrgif.c
+END
+makefile.sas
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.sas
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jquant2.c
+END
+makefile.wat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.wat
+END
+makefile.mms
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.mms
+END
+jmemname.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemname.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdatasrc.c
+END
+jmemdosa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemdosa.asm
+END
+jconfig.manx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.manx
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdapistd.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jversion.h
+END
+rdjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdjpgcom.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/README
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdmerge.c
+END
+makvms.opt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makvms.opt
+END
+libjpeg.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/libjpeg.dsp
+END
+ansi2knr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/ansi2knr.c
+END
+cjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/cjpeg.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdcolor.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/install-sh
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdatadst.c
+END
+jconfig.vms
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.vms
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdtrans.c
+END
+wrtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrtarga.c
+END
+jconfig.st
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.st
+END
+structure.doc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/structure.doc
+END
+change.log
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/change.log
+END
+makefile.ansi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.ansi
+END
+rdswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdswitch.c
+END
+makelib.ds
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makelib.ds
+END
+jconfig.dj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.dj
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jccolor.c
+END
+jconfig.mac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.mac
+END
+makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.vms
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jfdctflt.c
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jctrans.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcprepct.c
+END
+rdppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdppm.c
+END
+jconfig.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.mc6
+END
+ckconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/ckconfig.c
+END
+wizard.doc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wizard.doc
+END
+makeproj.mac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makeproj.mac
+END
+makdjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makdjpeg.st
+END
+jpegtran.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jpegtran.1
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdmainct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcapimin.c
+END
+rdgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/rdgif.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdapimin.c
+END
+wrrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrrle.c
+END
+jconfig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.cfg
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcdctmgr.c
+END
+makljpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makljpeg.st
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jddctmgr.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/configure
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jerror.c
+END
+maktjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/maktjpeg.st
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdhuff.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jerror.h
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemnobs.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdhuff.h
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/config.sub
+END
+makefile.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.mc6
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcinit.c
+END
+makcjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makcjpeg.st
+END
+usage.doc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/usage.doc
+END
+wrbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrbmp.c
+END
+makefile.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.cfg
+END
+libjpeg-vc8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/libjpeg-vc8.vcproj
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/example.c
+END
+jmemdos.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jmemdos.c
+END
+libjpeg.doc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/libjpeg.doc
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jfdctint.c
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/cderror.h
+END
+jconfig.vc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.vc
+END
+wrjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/wrjpgcom.1
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jidctint.c
+END
+jpegtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jpegtran.c
+END
+makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.unix
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jconfig.h
+END
+makeapps.ds
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makeapps.ds
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jdphuff.c
+END
+makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/makefile.dj
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/libjpeg/jidctred.c
+END

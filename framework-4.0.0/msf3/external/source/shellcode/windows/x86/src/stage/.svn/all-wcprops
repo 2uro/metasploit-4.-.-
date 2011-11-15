@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/stage
+END
+stage_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/stage/stage_shell.asm
+END
+stage_upexec.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/stage/stage_upexec.asm
+END

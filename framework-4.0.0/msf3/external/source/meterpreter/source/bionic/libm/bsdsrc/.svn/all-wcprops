@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/bsdsrc
+END
+mathimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/bsdsrc/mathimpl.h
+END
+b_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/bsdsrc/b_log.c
+END
+b_tgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/bsdsrc/b_tgamma.c
+END
+b_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/bsdsrc/b_exp.c
+END

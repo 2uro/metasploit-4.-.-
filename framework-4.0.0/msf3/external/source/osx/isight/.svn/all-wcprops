@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7815/framework3/trunk/external/source/osx/isight
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/main.m
+END
+CSGCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/CSGCamera.m
+END
+CSGImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/CSGImage.h
+END
+CocoaSequenceGrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/CocoaSequenceGrabber.h
+END
+CSGImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/CSGImage.m
+END
+CSGCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/CSGCamera.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6354/framework3/trunk/external/source/osx/isight/Makefile
+END

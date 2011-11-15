@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10617/framework3/trunk/modules/auxiliary/dos/smtp
+END
+sendmail_prescan.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10617/framework3/trunk/modules/auxiliary/dos/smtp/sendmail_prescan.rb
+END

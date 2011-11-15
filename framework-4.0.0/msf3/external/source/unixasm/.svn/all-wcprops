@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm
+END
+linux-power.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/linux-power.h
+END
+aix-power-bndsockcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-bndsockcode64.c
+END
+lin-power-bndsockcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-bndsockcode64.c
+END
+aix-power-fndsockcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-fndsockcode64.c
+END
+lin-power-fndsockcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-fndsockcode64.c
+END
+lin-power-bndsockcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-bndsockcode.S
+END
+osx-x86-cntsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-cntsockcode.s
+END
+bsd-x86-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-shellcode.s
+END
+aix-power-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-shellcode.c
+END
+lin-power-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-shellcode.c
+END
+lin-power-fndsockcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-fndsockcode.S
+END
+lin-x86-bndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-bndsockcode.c
+END
+lin-x86-fndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-fndsockcode.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/COPYING
+END
+lin-power-bndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-bndsockcode.c
+END
+lin-power-cntsockcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-cntsockcode.S
+END
+lin-power-fndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-fndsockcode.c
+END
+sol-sparc-bndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-sparc-bndsockcode.s
+END
+lin-x86-bndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-bndsockcode.s
+END
+lin-x86-cntsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-cntsockcode.c
+END
+lin-x86-fndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-fndsockcode.s
+END
+aix-power-shellcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-shellcode64.S
+END
+lin-power-cntsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-cntsockcode.c
+END
+lin-x86-cntsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-cntsockcode.s
+END
+aix-power-shellcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-shellcode64.c
+END
+fndsockclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/fndsockclient.c
+END
+objdumptoc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/objdumptoc.rb
+END
+aix-power-cntsockcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-cntsockcode64.S
+END
+lin-power-cntsockcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-cntsockcode64.S
+END
+sol-sparc-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-sparc-shellcode.c
+END
+lin-x86-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-shellcode.c
+END
+aix-power-bndsockcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-bndsockcode.S
+END
+bsd-x86-bndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-bndsockcode.c
+END
+sco-x86-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sco-x86-shellcode.c
+END
+osx-ppc-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-ppc-shellcode.s
+END
+aix-power-bndsockcode.rc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-bndsockcode.rc
+END
+aix-power-fndsockcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-fndsockcode.S
+END
+bsd-x86-fndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-fndsockcode.c
+END
+aix-power-fndsockcode.rc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-fndsockcode.rc
+END
+fndsockserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/fndsockserver.c
+END
+sol-x86-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-shellcode.c
+END
+aix-power-cntsockcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-cntsockcode64.c
+END
+lin-power-cntsockcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-cntsockcode64.c
+END
+sol-sparc-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-sparc-shellcode.s
+END
+lin-x86-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-x86-shellcode.s
+END
+aix-power-bndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-bndsockcode.c
+END
+bsd-x86-bndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-bndsockcode.s
+END
+sco-x86-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sco-x86-shellcode.s
+END
+aix-power-cntsockcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-cntsockcode.S
+END
+bsd-x86-cntsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-cntsockcode.c
+END
+aix-power-fndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-fndsockcode.c
+END
+bsd-x86-fndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-fndsockcode.s
+END
+aix-power.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power.rb
+END
+osx-x86-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-shellcode.c
+END
+sol-x86-bndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-bndsockcode.c
+END
+sol-x86-fndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-fndsockcode.c
+END
+sol-x86-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-shellcode.s
+END
+lin-power-shellcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-shellcode64.S
+END
+osx-x86-bndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-bndsockcode.c
+END
+aix-power-cntsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-cntsockcode.c
+END
+bsd-x86-cntsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-cntsockcode.s
+END
+osx-x86-fndsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-fndsockcode.c
+END
+osx-x86-shellcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-shellcode.s
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/README
+END
+sol-x86-bndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-bndsockcode.s
+END
+sol-x86-cntsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-cntsockcode.c
+END
+aix-power.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power.h
+END
+sol-x86-fndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-fndsockcode.s
+END
+aix-power-bndsockcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-bndsockcode64.S
+END
+lin-power-bndsockcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-bndsockcode64.S
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/COPYING.LESSER
+END
+aix-power-fndsockcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5942/framework3/trunk/external/source/unixasm/aix-power-fndsockcode64.S
+END
+lin-power-shellcode64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-shellcode64.c
+END
+lin-power-fndsockcode64.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-fndsockcode64.S
+END
+osx-x86-bndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-bndsockcode.s
+END
+osx-x86-cntsockcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-cntsockcode.c
+END
+aix-power-cntsockcode.rc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-cntsockcode.rc
+END
+aix-power-shellcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-shellcode.S
+END
+bsd-x86-shellcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/bsd-x86-shellcode.c
+END
+lin-power-shellcode.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/lin-power-shellcode.S
+END
+osx-x86-fndsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/osx-x86-fndsockcode.s
+END
+aix-power-shellcode.rc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/aix-power-shellcode.rc
+END
+sol-x86-cntsockcode.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9348/framework3/trunk/external/source/unixasm/sol-x86-cntsockcode.s
+END

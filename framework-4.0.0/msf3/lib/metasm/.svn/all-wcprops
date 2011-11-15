@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/13351/framework3/trunk/lib/metasm
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/BUGS
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6429/framework3/trunk/lib/metasm/LICENCE
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/INSTALL
+END
+metasm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/metasm.rb
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6429/framework3/trunk/lib/metasm/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/README
+END

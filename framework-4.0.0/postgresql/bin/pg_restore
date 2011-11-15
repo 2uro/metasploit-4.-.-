@@ -1,0 +1,3 @@
+#!/bin/sh
+. /opt/framework-4.0.0/postgresql/bin/setenv.sh
+exec /opt/framework-4.0.0/postgresql/bin/pg_restore.bin "$@"

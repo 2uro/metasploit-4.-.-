@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/13976/framework3/trunk/documentation
+END
+wmap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11709/framework3/trunk/documentation/wmap.txt
+END
+users_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7279/framework3/trunk/documentation/users_guide.pdf
+END
+msfrpc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6165/framework3/trunk/documentation/msfrpc.txt
+END
+gendocs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13064/framework3/trunk/documentation/gendocs.sh
+END
+msfconsole_rc_ruby_example.rc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8878/framework3/trunk/documentation/msfconsole_rc_ruby_example.rc
+END
+developers_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8974/framework3/trunk/documentation/developers_guide.pdf
+END
+msfopcode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10998/framework3/trunk/documentation/msfopcode.txt
+END
+users_guide.tex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7279/framework3/trunk/documentation/users_guide.tex
+END
+posix_meterpreter.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10202/framework3/trunk/documentation/posix_meterpreter.txt
+END

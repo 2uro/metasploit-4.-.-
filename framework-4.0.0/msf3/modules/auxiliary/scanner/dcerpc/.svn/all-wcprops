@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/scanner/dcerpc
+END
+tcp_dcerpc_auditor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/scanner/dcerpc/tcp_dcerpc_auditor.rb
+END
+endpoint_mapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9929/framework3/trunk/modules/auxiliary/scanner/dcerpc/endpoint_mapper.rb
+END
+hidden.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9571/framework3/trunk/modules/auxiliary/scanner/dcerpc/hidden.rb
+END
+management.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9929/framework3/trunk/modules/auxiliary/scanner/dcerpc/management.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12894/framework3/trunk/lib/net/ssh/transport/kex
+END
+diffie_hellman_group1_sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/kex/diffie_hellman_group1_sha1.rb
+END
+diffie_hellman_group_exchange_sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12894/framework3/trunk/lib/net/ssh/transport/kex/diffie_hellman_group_exchange_sha1.rb
+END

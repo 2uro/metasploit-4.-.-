@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/sqli/oracle
+END
+lt_mergeworkspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/lt_mergeworkspace.rb
+END
+dbms_export_extension.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_export_extension.rb
+END
+dbms_cdc_publish.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_cdc_publish.rb
+END
+lt_findricset_cursor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/lt_findricset_cursor.rb
+END
+dbms_cdc_ipublish.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_cdc_ipublish.rb
+END
+jvm_os_code_10g.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/sqli/oracle/jvm_os_code_10g.rb
+END
+droptable_trigger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/sqli/oracle/droptable_trigger.rb
+END
+jvm_os_code_11g.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/jvm_os_code_11g.rb
+END
+dbms_metadata_get_xml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_metadata_get_xml.rb
+END
+dbms_cdc_publish2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_cdc_publish2.rb
+END
+dbms_metadata_open.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_metadata_open.rb
+END
+dbms_cdc_publish3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_cdc_publish3.rb
+END
+lt_rollbackworkspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/lt_rollbackworkspace.rb
+END
+dbms_metadata_get_granted_xml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/dbms_metadata_get_granted_xml.rb
+END
+lt_compressworkspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/lt_compressworkspace.rb
+END
+lt_removeworkspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11122/framework3/trunk/modules/auxiliary/sqli/oracle/lt_removeworkspace.rb
+END

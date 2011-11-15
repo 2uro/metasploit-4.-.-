@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/ssh
+END
+ssh_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11817/framework3/trunk/modules/auxiliary/scanner/ssh/ssh_version.rb
+END
+ssh_login_pubkey.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/ssh/ssh_login_pubkey.rb
+END
+ssh_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/ssh/ssh_login.rb
+END

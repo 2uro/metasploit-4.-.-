@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13949/framework3/trunk/lib/msf/core/module
+END
+reference.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/reference.rb
+END
+platform_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/platform_list.rb
+END
+target.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/target.rb.ut.rb
+END
+author.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12841/framework3/trunk/lib/msf/core/module/author.rb
+END
+auxiliary_action.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/auxiliary_action.rb
+END
+platform.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13949/framework3/trunk/lib/msf/core/module/platform.rb
+END
+target.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/target.rb
+END
+reference.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/reference.rb.ut.rb
+END
+platform_list.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/platform_list.rb.ut.rb
+END
+author.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/module/author.rb.ut.rb
+END
+has_actions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12008/framework3/trunk/lib/msf/core/module/has_actions.rb
+END

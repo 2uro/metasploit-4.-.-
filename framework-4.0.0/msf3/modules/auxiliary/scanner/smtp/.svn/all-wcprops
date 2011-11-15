@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/smtp
+END
+smtp_enum.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/smtp/smtp_enum.rb
+END
+smtp_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9804/framework3/trunk/modules/auxiliary/scanner/smtp/smtp_version.rb
+END

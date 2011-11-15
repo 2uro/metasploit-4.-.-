@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/scripts/meterpreter
+END
+accounts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/scripts/meterpreter/accounts.rb
+END
+file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11544/framework3/trunk/lib/msf/scripts/meterpreter/file.rb
+END
+services.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/scripts/meterpreter/services.rb
+END
+common.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/scripts/meterpreter/common.rb
+END
+registry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/scripts/meterpreter/registry.rb
+END

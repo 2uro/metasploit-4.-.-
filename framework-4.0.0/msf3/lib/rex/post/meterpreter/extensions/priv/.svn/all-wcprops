@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12512/framework3/trunk/lib/rex/post/meterpreter/extensions/priv
+END
+priv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12512/framework3/trunk/lib/rex/post/meterpreter/extensions/priv/priv.rb
+END
+passwd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/priv/passwd.rb
+END
+tlv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/priv/tlv.rb
+END
+fs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/priv/fs.rb
+END

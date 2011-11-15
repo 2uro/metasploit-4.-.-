@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc
+END
+stage_tcp_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stage_tcp_shell.asm
+END
+stager_sock_bind.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stager_sock_bind.asm
+END
+encoder_dword_xor_tag.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/encoder_dword_xor_tag.asm
+END
+single_reverse_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/single_reverse_tcp.asm
+END
+stager_sock_reverse_nf.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stager_sock_reverse_nf.asm
+END
+single_bind_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/single_bind_tcp.asm
+END
+stager_sock_find.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stager_sock_find.asm
+END
+encoder_dword_xor.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/encoder_dword_xor.asm
+END
+stager_sock_find_peek.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stager_sock_find_peek.asm
+END
+stub_sock_find_peek_flusher.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stub_sock_find_peek_flusher.asm
+END
+stager_sock_reverse.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/osx/ppc/stager_sock_reverse.asm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6952/framework3/trunk/external/source/byakugan/bin/XPSP2
+END
+detoured.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5665/framework3/trunk/external/source/byakugan/bin/XPSP2/detoured.dll
+END
+byakugan.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6952/framework3/trunk/external/source/byakugan/bin/XPSP2/byakugan.dll
+END
+injectsu.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5665/framework3/trunk/external/source/byakugan/bin/XPSP2/injectsu.dll
+END

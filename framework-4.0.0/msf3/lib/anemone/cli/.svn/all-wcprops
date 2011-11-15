@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli
+END
+url_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli/url_list.rb
+END
+cron.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli/cron.rb
+END
+pagedepth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli/pagedepth.rb
+END
+serialize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli/serialize.rb
+END
+count.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli/count.rb
+END

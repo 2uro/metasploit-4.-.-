@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8520/framework3/trunk/lib/postgres/postgres-pr
+END
+connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8520/framework3/trunk/lib/postgres/postgres-pr/connection.rb
+END
+message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8520/framework3/trunk/lib/postgres/postgres-pr/message.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8342/framework3/trunk/lib/postgres/postgres-pr/version.rb
+END
+postgres-compat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8343/framework3/trunk/lib/postgres/postgres-pr/postgres-compat.rb
+END

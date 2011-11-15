@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13582/framework3/trunk/external/source/meterpreter/source/screenshot
+END
+screenshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8787/framework3/trunk/external/source/meterpreter/source/screenshot/screenshot.h
+END
+bmp2jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8787/framework3/trunk/external/source/meterpreter/source/screenshot/bmp2jpeg.c
+END
+bmp2jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8787/framework3/trunk/external/source/meterpreter/source/screenshot/bmp2jpeg.h
+END
+screenshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13582/framework3/trunk/external/source/meterpreter/source/screenshot/screenshot.c
+END

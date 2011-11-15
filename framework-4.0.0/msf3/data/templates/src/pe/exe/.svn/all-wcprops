@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe
+END
+template_x64_windows.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/template_x64_windows.asm
+END
+template.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/template.c
+END
+template.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/template.s
+END

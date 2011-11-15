@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14139/framework3/trunk/modules/auxiliary/scanner/misc
+END
+sunrpc_portmapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/scanner/misc/sunrpc_portmapper.rb
+END
+rosewill_rxs3211_passwords.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/misc/rosewill_rxs3211_passwords.rb
+END
+ib_service_mgr_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11707/framework3/trunk/modules/auxiliary/scanner/misc/ib_service_mgr_info.rb
+END
+redis_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14139/framework3/trunk/modules/auxiliary/scanner/misc/redis_server.rb
+END

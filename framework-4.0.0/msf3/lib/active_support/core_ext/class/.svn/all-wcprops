@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/class
+END
+removal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/class/removal.rb
+END
+attribute_accessors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/class/attribute_accessors.rb
+END
+delegating_attributes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/class/delegating_attributes.rb
+END
+inheritable_attributes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/class/inheritable_attributes.rb
+END

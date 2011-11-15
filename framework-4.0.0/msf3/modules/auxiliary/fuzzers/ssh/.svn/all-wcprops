@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/ssh
+END
+ssh_version_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/ssh/ssh_version_corrupt.rb
+END
+ssh_version_2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/ssh/ssh_version_2.rb
+END
+ssh_kexinit_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/fuzzers/ssh/ssh_kexinit_corrupt.rb
+END
+ssh_version_15.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/ssh/ssh_version_15.rb
+END

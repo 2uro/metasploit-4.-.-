@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14207/framework3/trunk/lib/zip/test/data/generated
+END
+empty.zip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/empty.zip
+END
+empty_chmod640.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/empty_chmod640.txt
+END
+test1.zip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/test1.zip
+END
+longAscii.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/longAscii.txt
+END
+5entry.zip
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/5entry.zip
+END
+randomAscii1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/randomAscii1.txt
+END
+randomAscii2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/randomAscii2.txt
+END
+randomAscii3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/randomAscii3.txt
+END
+longBinary.bin
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/longBinary.bin
+END
+empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/empty.txt
+END
+randomBinary1.bin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/randomBinary1.bin
+END
+short.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/short.txt
+END
+zipWithDir.zip
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/zipWithDir.zip
+END
+randomBinary2.bin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/data/generated/randomBinary2.bin
+END

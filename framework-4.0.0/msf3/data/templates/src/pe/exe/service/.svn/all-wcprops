@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/service
+END
+service.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/service/service.c
+END
+Service.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/service/Service.vcproj
+END
+Service.sln
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/exe/service/Service.sln
+END

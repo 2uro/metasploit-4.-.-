@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/loader.c
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/loader.h
+END
+inject.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/inject.c
+END
+ReflectiveLoader.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/ReflectiveLoader.c
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/LICENSE.txt
+END
+inject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/inject.h
+END
+ps.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/ps.c
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/session.c
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/context.c
+END
+ReflectiveLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/ReflectiveLoader.h
+END
+LoadLibraryR.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/LoadLibraryR.c
+END
+ps.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/ps.h
+END
+loader.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/loader.vcproj
+END
+loader.rc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/loader.rc
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/session.h
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/context.h
+END
+LoadLibraryR.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/LoadLibraryR.h
+END
+ReflectiveDLLInjection.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/loader/ReflectiveDLLInjection.h
+END

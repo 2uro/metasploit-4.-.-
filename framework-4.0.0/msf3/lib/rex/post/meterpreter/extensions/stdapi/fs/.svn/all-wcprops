@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13350/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/fs
+END
+dir.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13350/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/fs/dir.rb
+END
+file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13350/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/fs/file.rb
+END
+io.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/fs/io.rb
+END
+file_stat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13299/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/fs/file_stat.rb
+END

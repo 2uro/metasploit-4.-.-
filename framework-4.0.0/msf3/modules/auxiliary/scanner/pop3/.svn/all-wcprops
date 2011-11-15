@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/pop3
+END
+pop3_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9804/framework3/trunk/modules/auxiliary/scanner/pop3/pop3_version.rb
+END
+pop3_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/pop3/pop3_login.rb
+END

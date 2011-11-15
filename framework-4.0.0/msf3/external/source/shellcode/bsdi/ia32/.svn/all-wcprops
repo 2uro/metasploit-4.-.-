@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32
+END
+stage_tcp_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/stage_tcp_shell.asm
+END
+stager_sock_bind.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/stager_sock_bind.asm
+END
+stager_sock_find.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/stager_sock_find.asm
+END
+syscall_bsdi_4.3.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/syscall_bsdi_4.3.h
+END
+single_reverse_tcp_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/single_reverse_tcp_shell.asm
+END
+single_bind_tcp_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/single_bind_tcp_shell.asm
+END
+generic.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/generic.asm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/Makefile
+END
+single_find_tcp_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/single_find_tcp_shell.asm
+END
+stager_sock_reverse.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/bsdi/ia32/stager_sock_reverse.asm
+END

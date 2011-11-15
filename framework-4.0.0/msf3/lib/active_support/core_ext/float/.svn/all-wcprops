@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/float
+END
+time.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/float/time.rb
+END
+rounding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/core_ext/float/rounding.rb
+END

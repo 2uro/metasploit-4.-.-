@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14221/framework3/trunk/data/cpuinfo
+END
+cpuinfo.exe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13120/framework3/trunk/data/cpuinfo/cpuinfo.exe
+END
+cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14221/framework3/trunk/data/cpuinfo/cpuinfo.c
+END
+cpuinfo.ia32.bin
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13120/framework3/trunk/data/cpuinfo/cpuinfo.ia32.bin
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14221/framework3/trunk/data/cpuinfo/build.sh
+END
+cpuinfo.ia64.bin
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13120/framework3/trunk/data/cpuinfo/cpuinfo.ia64.bin
+END

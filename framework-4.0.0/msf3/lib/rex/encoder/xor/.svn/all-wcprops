@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/xor
+END
+dword.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/xor/dword.rb
+END
+dword_additive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/xor/dword_additive.rb
+END

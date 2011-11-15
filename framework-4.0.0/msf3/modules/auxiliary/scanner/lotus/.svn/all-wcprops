@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/lotus
+END
+lotus_domino_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13715/framework3/trunk/modules/auxiliary/scanner/lotus/lotus_domino_version.rb
+END
+lotus_domino_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/lotus/lotus_domino_login.rb
+END
+lotus_domino_hashes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/scanner/lotus/lotus_domino_hashes.rb
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/samples/dasm-plugins
+END
+scanfuncstart.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/scanfuncstart.rb
+END
+c_constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/samples/dasm-plugins/c_constants.rb
+END
+cppobj_funcall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/samples/dasm-plugins/cppobj_funcall.rb
+END
+hotfix_gtk_dbg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/hotfix_gtk_dbg.rb
+END
+deobfuscate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/deobfuscate.rb
+END
+namelocalvars.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/namelocalvars.rb
+END
+scanxrefs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/scanxrefs.rb
+END
+hl_opcode.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/samples/dasm-plugins/hl_opcode.rb
+END
+findgadget.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/samples/dasm-plugins/findgadget.rb
+END
+patch_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/patch_file.rb
+END
+selfmodify.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/selfmodify.rb
+END
+bindiff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/bindiff.rb
+END
+bookmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/samples/dasm-plugins/bookmark.rb
+END
+match_libsigs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/match_libsigs.rb
+END
+dump_text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/dump_text.rb
+END
+dasm_all.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/samples/dasm-plugins/dasm_all.rb
+END

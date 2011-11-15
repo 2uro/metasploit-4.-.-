@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14221/framework3/trunk/data/gui/lib
+END
+appframework-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9817/framework3/trunk/data/gui/lib/appframework-1.0.3.jar
+END
+swing-worker-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9817/framework3/trunk/data/gui/lib/swing-worker-1.1.jar
+END
+msgpack-0.5.1-devel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/gui/lib/msgpack-0.5.1-devel.jar
+END

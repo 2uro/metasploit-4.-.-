@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/codecs
+END
+g711.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/codecs/g711.rb
+END
+alaw.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/codecs/alaw.rb
+END
+mulaw.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/codecs/mulaw.rb
+END

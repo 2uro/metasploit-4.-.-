@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14167/framework3/trunk/lib/msf/core/rpc/v10
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13986/framework3/trunk/lib/msf/core/rpc/v10/client.rb
+END
+rpc_base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12679/framework3/trunk/lib/msf/core/rpc/v10/rpc_base.rb
+END
+rpc_job.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12769/framework3/trunk/lib/msf/core/rpc/v10/rpc_job.rb
+END
+service.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13614/framework3/trunk/lib/msf/core/rpc/v10/service.rb
+END
+rpc_plugin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12679/framework3/trunk/lib/msf/core/rpc/v10/rpc_plugin.rb
+END
+rpc_auth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14105/framework3/trunk/lib/msf/core/rpc/v10/rpc_auth.rb
+END
+rpc_console.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14161/framework3/trunk/lib/msf/core/rpc/v10/rpc_console.rb
+END
+rpc_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13385/framework3/trunk/lib/msf/core/rpc/v10/rpc_session.rb
+END
+rpc_db.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14167/framework3/trunk/lib/msf/core/rpc/v10/rpc_db.rb
+END
+rpc_module.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13713/framework3/trunk/lib/msf/core/rpc/v10/rpc_module.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12785/framework3/trunk/lib/msf/core/rpc/v10/constants.rb
+END
+rpc_core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12760/framework3/trunk/lib/msf/core/rpc/v10/rpc_core.rb
+END

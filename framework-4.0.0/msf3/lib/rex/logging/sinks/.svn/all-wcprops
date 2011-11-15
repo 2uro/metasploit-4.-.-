@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/logging/sinks
+END
+stderr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5773/framework3/trunk/lib/rex/logging/sinks/stderr.rb
+END
+flatfile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/logging/sinks/flatfile.rb
+END

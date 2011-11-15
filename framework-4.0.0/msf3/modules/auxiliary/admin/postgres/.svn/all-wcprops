@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/admin/postgres
+END
+postgres_readfile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/admin/postgres/postgres_readfile.rb
+END
+postgres_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9306/framework3/trunk/modules/auxiliary/admin/postgres/postgres_sql.rb
+END

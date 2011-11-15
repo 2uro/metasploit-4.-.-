@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/aix/ppc
+END
+shell_interact.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10394/framework3/trunk/modules/payloads/singles/aix/ppc/shell_interact.rb
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/aix/ppc/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/aix/ppc/shell_bind_tcp.rb
+END
+shell_find_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/aix/ppc/shell_find_port.rb
+END

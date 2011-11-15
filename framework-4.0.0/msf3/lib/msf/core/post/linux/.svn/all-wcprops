@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12985/framework3/trunk/lib/msf/core/post/linux
+END
+priv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12985/framework3/trunk/lib/msf/core/post/linux/priv.rb
+END
+system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12985/framework3/trunk/lib/msf/core/post/linux/system.rb
+END

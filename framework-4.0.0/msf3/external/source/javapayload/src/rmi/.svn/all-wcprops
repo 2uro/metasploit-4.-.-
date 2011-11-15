@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13185/framework3/trunk/external/source/javapayload/src/rmi
+END
+RMICaptureServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13185/framework3/trunk/external/source/javapayload/src/rmi/RMICaptureServer.java
+END
+RMIReplaySender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13185/framework3/trunk/external/source/javapayload/src/rmi/RMIReplaySender.java
+END
+RMISender.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/13185/framework3/trunk/external/source/javapayload/src/rmi/RMISender.java
+END

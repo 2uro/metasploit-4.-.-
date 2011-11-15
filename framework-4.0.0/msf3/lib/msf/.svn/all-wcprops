@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14242/framework3/trunk/lib/msf
+END
+ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/ui.rb
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/util.rb
+END
+core.rb.ts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core.rb.ts.rb
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3850/framework3/trunk/lib/msf/LICENSE
+END
+base.rb.ts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/base.rb.ts.rb
+END
+windows_error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/windows_error.rb
+END
+events.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8127/framework3/trunk/lib/msf/events.rb
+END
+sanity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/sanity.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/core.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/base.rb
+END

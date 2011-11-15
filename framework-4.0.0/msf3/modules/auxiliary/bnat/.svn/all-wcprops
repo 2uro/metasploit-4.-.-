@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/bnat
+END
+bnat_router.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/bnat/bnat_router.rb
+END
+bnat_scan.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/bnat/bnat_scan.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13983/framework3/trunk/modules/post/windows/capture
+END
+keylog_recorder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13967/framework3/trunk/modules/post/windows/capture/keylog_recorder.rb
+END
+lockout_keylogger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13983/framework3/trunk/modules/post/windows/capture/lockout_keylogger.rb
+END

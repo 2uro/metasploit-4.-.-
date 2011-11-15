@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 214
+/framework3/branches/feature/msf3-session/lib/readline_compatible.rb:12060-12272
+/framework3/features/browser_autopwn/lib/readline.rb:6266-6608,6633-6791,6839-6843
+/framework3/trunk/lib/readline_compatible.rb:12538
+END

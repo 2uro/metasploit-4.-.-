@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/vnc
+END
+vnc_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/vnc/vnc_login.rb
+END
+vnc_none_auth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12623/framework3/trunk/modules/auxiliary/scanner/vnc/vnc_none_auth.rb
+END

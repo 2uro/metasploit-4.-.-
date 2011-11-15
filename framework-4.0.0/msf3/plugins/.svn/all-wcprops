@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14225/framework3/trunk/plugins
+END
+nessus.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14134/framework3/trunk/plugins/nessus.rb
+END
+nexpose.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14225/framework3/trunk/plugins/nexpose.rb
+END
+sample.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9212/framework3/trunk/plugins/sample.rb
+END
+pcap_log.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14034/framework3/trunk/plugins/pcap_log.rb
+END
+editor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13900/framework3/trunk/plugins/editor.rb
+END
+token_adduser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14095/framework3/trunk/plugins/token_adduser.rb
+END
+socket_logger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9212/framework3/trunk/plugins/socket_logger.rb
+END
+db_credcollect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14034/framework3/trunk/plugins/db_credcollect.rb
+END
+msfd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14034/framework3/trunk/plugins/msfd.rb
+END
+msgrpc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13416/framework3/trunk/plugins/msgrpc.rb
+END
+auto_add_route.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11656/framework3/trunk/plugins/auto_add_route.rb
+END
+lab.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14034/framework3/trunk/plugins/lab.rb
+END
+db_tracker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9212/framework3/trunk/plugins/db_tracker.rb
+END
+ips_filter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14034/framework3/trunk/plugins/ips_filter.rb
+END
+wmap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14034/framework3/trunk/plugins/wmap.rb
+END
+token_hunter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13777/framework3/trunk/plugins/token_hunter.rb
+END
+ffautoregen.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11458/framework3/trunk/plugins/ffautoregen.rb
+END
+xmlrpc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14034/framework3/trunk/plugins/xmlrpc.rb
+END
+event_tester.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9212/framework3/trunk/plugins/event_tester.rb
+END
+thread.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9212/framework3/trunk/plugins/thread.rb
+END
+openvas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14034/framework3/trunk/plugins/openvas.rb
+END
+sounds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9212/framework3/trunk/plugins/sounds.rb
+END
+session_tagger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9212/framework3/trunk/plugins/session_tagger.rb
+END

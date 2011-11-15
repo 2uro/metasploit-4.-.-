@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14207/framework3/trunk/lib/zip/test
+END
+stdrubyexttest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/stdrubyexttest.rb
+END
+ioextrastest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/ioextrastest.rb
+END
+ziprequiretest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/ziprequiretest.rb
+END
+ziptest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/ziptest.rb
+END
+zipfilesystemtest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10648/framework3/trunk/lib/zip/test/zipfilesystemtest.rb
+END
+alltests.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/alltests.rb
+END
+gentestfiles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/test/gentestfiles.rb
+END

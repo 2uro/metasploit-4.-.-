@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/13359/framework3/trunk/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi
+END
+ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12323/framework3/trunk/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/ui.rb
+END
+sys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12924/framework3/trunk/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/sys.rb
+END
+webcam.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/11087/framework3/trunk/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/webcam.rb
+END
+net.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/13359/framework3/trunk/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/net.rb
+END
+fs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13124/framework3/trunk/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/fs.rb
+END

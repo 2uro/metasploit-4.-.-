@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14207/framework3/trunk/lib/zip
+END
+stdrubyext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/stdrubyext.rb
+END
+ioextras.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/ioextras.rb
+END
+ziprequire.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/ziprequire.rb
+END
+tempfile_bugfixed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/tempfile_bugfixed.rb
+END
+zip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/zip.rb
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/TODO
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/ChangeLog
+END
+zipfilesystem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/zipfilesystem.rb
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/README
+END

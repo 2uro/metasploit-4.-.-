@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7433/framework3/trunk/external/source/byakugan/bin/Win7
+END
+detoured.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6103/framework3/trunk/external/source/byakugan/bin/Win7/detoured.dll
+END
+byakugan.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7433/framework3/trunk/external/source/byakugan/bin/Win7/byakugan.dll
+END
+injectsu.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7341/framework3/trunk/external/source/byakugan/bin/Win7/injectsu.dll
+END

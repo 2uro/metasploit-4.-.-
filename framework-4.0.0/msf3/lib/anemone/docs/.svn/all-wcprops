@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11023/framework3/trunk/lib/anemone/docs
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/docs/LICENSE.txt
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/docs/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/docs/README.rdoc
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/docs/VERSION
+END
+CHANGELOG.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/docs/CHANGELOG.rdoc
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/docs/CONTRIBUTORS
+END
+MODIFIED.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11023/framework3/trunk/lib/anemone/docs/MODIFIED.txt
+END

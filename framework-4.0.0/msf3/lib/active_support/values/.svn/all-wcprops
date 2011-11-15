@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/values
+END
+unicode_tables.dat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/values/unicode_tables.dat
+END
+time_zone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/values/time_zone.rb
+END

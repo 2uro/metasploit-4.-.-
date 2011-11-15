@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/smb
+END
+smb_enumusers_domain.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13183/framework3/trunk/modules/auxiliary/scanner/smb/smb_enumusers_domain.rb
+END
+smb2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11796/framework3/trunk/modules/auxiliary/scanner/smb/smb2.rb
+END
+pipe_auditor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11796/framework3/trunk/modules/auxiliary/scanner/smb/pipe_auditor.rb
+END
+pipe_dcerpc_auditor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11796/framework3/trunk/modules/auxiliary/scanner/smb/pipe_dcerpc_auditor.rb
+END
+smb_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14116/framework3/trunk/modules/auxiliary/scanner/smb/smb_version.rb
+END
+smb_enumusers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10707/framework3/trunk/modules/auxiliary/scanner/smb/smb_enumusers.rb
+END
+smb_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/smb/smb_login.rb
+END
+smb_lookupsid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9981/framework3/trunk/modules/auxiliary/scanner/smb/smb_lookupsid.rb
+END
+smb_enumshares.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12809/framework3/trunk/modules/auxiliary/scanner/smb/smb_enumshares.rb
+END

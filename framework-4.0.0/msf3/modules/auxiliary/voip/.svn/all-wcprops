@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14234/framework3/trunk/modules/auxiliary/voip
+END
+asterisk_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14234/framework3/trunk/modules/auxiliary/voip/asterisk_login.rb
+END
+sip_invite_spoof.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/voip/sip_invite_spoof.rb
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage/exceptions.rb
+END
+mongodb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage/mongodb.rb
+END
+redis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage/redis.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage/base.rb
+END
+tokyo_cabinet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage/tokyo_cabinet.rb
+END
+pstore.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage/pstore.rb
+END

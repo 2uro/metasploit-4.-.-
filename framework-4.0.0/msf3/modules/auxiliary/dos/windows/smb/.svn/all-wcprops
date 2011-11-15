@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13939/framework3/trunk/modules/auxiliary/dos/windows/smb
+END
+ms09_050_smb2_session_logoff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/windows/smb/ms09_050_smb2_session_logoff.rb
+END
+ms06_035_mailslot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/windows/smb/ms06_035_mailslot.rb
+END
+ms09_001_write.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/windows/smb/ms09_001_write.rb
+END
+ms10_054_queryfs_pool_overflow.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/dos/windows/smb/ms10_054_queryfs_pool_overflow.rb
+END
+ms06_063_trans.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9929/framework3/trunk/modules/auxiliary/dos/windows/smb/ms06_063_trans.rb
+END
+ms11_019_electbowser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13939/framework3/trunk/modules/auxiliary/dos/windows/smb/ms11_019_electbowser.rb
+END
+ms09_050_smb2_negotiate_pidhigh.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/windows/smb/ms09_050_smb2_negotiate_pidhigh.rb
+END
+rras_vls_null_deref.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9225/framework3/trunk/modules/auxiliary/dos/windows/smb/rras_vls_null_deref.rb
+END
+vista_negotiate_stop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10617/framework3/trunk/modules/auxiliary/dos/windows/smb/vista_negotiate_stop.rb
+END
+ms05_047_pnp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9262/framework3/trunk/modules/auxiliary/dos/windows/smb/ms05_047_pnp.rb
+END
+ms10_006_negotiate_response_loop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9085/framework3/trunk/modules/auxiliary/dos/windows/smb/ms10_006_negotiate_response_loop.rb
+END

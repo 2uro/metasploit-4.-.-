@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser
+END
+ns_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser/ns_name.c
+END
+ns_netint.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser/ns_netint.c
+END
+ns_ttl.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser/ns_ttl.c
+END
+ns_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser/ns_parse.c
+END
+ns_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser/ns_print.c
+END
+ns_samedomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/netbsd/nameser/ns_samedomain.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13515/framework3/trunk/external/ruby-kissfft
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/_kiss_fft_guts.h
+END
+kiss_fftr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/kiss_fftr.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/main.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/COPYING
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/extconf.rb
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/kiss_fft.c
+END
+sample.data
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/sample.data
+END
+test_kissfft.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/test_kissfft.rb
+END
+kiss_fftr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/kiss_fftr.c
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13483/framework3/trunk/external/ruby-kissfft/kiss_fft.h
+END

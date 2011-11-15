@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14221/framework3/trunk/data/wmap
+END
+whaler.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14221/framework3/trunk/data/wmap/whaler.txt
+END
+wmap_dirs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14221/framework3/trunk/data/wmap/wmap_dirs.txt
+END
+wmap_sample_profile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/wmap/wmap_sample_profile.txt
+END
+wmap_files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14221/framework3/trunk/data/wmap/wmap_files.txt
+END
+wmap_404s.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14221/framework3/trunk/data/wmap/wmap_404s.txt
+END

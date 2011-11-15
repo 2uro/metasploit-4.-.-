@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9819/framework3/trunk/lib/rex/payloads/win32/kernel
+END
+recovery.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5773/framework3/trunk/lib/rex/payloads/win32/kernel/recovery.rb
+END
+stager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9819/framework3/trunk/lib/rex/payloads/win32/kernel/stager.rb
+END
+common.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5773/framework3/trunk/lib/rex/payloads/win32/kernel/common.rb
+END
+migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5773/framework3/trunk/lib/rex/payloads/win32/kernel/migration.rb
+END

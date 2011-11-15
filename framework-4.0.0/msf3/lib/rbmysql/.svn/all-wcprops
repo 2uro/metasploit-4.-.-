@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11897/framework3/trunk/lib/rbmysql
+END
+protocol.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11897/framework3/trunk/lib/rbmysql/protocol.rb
+END
+compat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7975/framework3/trunk/lib/rbmysql/compat.rb
+END
+charset.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7975/framework3/trunk/lib/rbmysql/charset.rb
+END
+error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7975/framework3/trunk/lib/rbmysql/error.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7975/framework3/trunk/lib/rbmysql/README
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7975/framework3/trunk/lib/rbmysql/constants.rb
+END

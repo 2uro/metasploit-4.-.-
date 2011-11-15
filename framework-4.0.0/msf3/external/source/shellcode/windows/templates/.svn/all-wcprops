@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates
+END
+linux_template.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/linux_template.asm
+END
+win32_template.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/win32_template.asm
+END

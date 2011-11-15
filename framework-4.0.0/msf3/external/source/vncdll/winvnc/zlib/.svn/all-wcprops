@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/zlib
+END
+Make_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/Make_vms.com
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/infcodes.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/configure
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/inffixed.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/Makefile.in
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/zlib/deflate.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/deflate.h
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/infutil.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zutil.h
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/infutil.h
+END
+zlib-vc8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zlib-vc8.vcproj
+END
+zlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/zlib/zlib.vcproj
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/trees.c
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/algorithm.txt
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zconf.h
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/minigzip.c
+END
+INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/INDEX
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/infblock.c
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/inffast.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/example.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/compress.c
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/infblock.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/Makefile
+END
+Makefile.riscos
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/Makefile.riscos
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/inffast.h
+END
+descrip.mms
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/descrip.mms
+END
+zlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zlib.dsp
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/zlib/zlib.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/README
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zlib.3
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/inflate.c
+END
+zlib.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/zlib.html
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/inftrees.h
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/FAQ
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/infcodes.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/adler32.c
+END
+maketree.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/zlib/maketree.c
+END

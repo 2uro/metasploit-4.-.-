@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/13582/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate
+END
+kitrap0d.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13582/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/kitrap0d.c
+END
+tokendup.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/8298/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/tokendup.h
+END
+service.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8293/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/service.c
+END
+namedpipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9759/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/namedpipe.c
+END
+kitrap0d.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/8317/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/kitrap0d.h
+END
+elevate.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8317/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/elevate.c
+END
+service.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8293/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/service.h
+END
+namedpipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/8298/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/namedpipe.h
+END
+tokendup.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9759/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/tokendup.c
+END
+elevate.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8317/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/elevate/elevate.h
+END

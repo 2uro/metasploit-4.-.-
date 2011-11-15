@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13183/framework3/trunk/modules/auxiliary/scanner/db2
+END
+discovery.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11127/framework3/trunk/modules/auxiliary/scanner/db2/discovery.rb
+END
+db2_auth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11465/framework3/trunk/modules/auxiliary/scanner/db2/db2_auth.rb
+END
+db2_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13183/framework3/trunk/modules/auxiliary/scanner/db2/db2_version.rb
+END

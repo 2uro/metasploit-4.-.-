@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/x64
+END
+reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/x64/reverse_tcp.rb
+END
+bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/x64/bind_tcp.rb
+END

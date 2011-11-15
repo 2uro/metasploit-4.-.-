@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/src
+END
+metsvc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/src/metsvc.cpp
+END
+metsvc-server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/src/metsvc-server.cpp
+END
+metsvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/src/metsvc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/src/Makefile
+END

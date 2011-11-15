@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10724/framework3/trunk/lib/rex/mime
+END
+message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10724/framework3/trunk/lib/rex/mime/message.rb
+END
+part.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5773/framework3/trunk/lib/rex/mime/part.rb
+END
+header.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9276/framework3/trunk/lib/rex/mime/header.rb
+END

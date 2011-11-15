@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14224/framework3/trunk/modules/auxiliary/server
+END
+tftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/server/tftp.rb
+END
+dhcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12375/framework3/trunk/modules/auxiliary/server/dhcp.rb
+END
+browser_autopwn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/server/browser_autopwn.rb
+END
+socks4a.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12353/framework3/trunk/modules/auxiliary/server/socks4a.rb
+END
+socks_unc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/server/socks_unc.rb
+END
+ftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13924/framework3/trunk/modules/auxiliary/server/ftp.rb
+END
+webkit_xslt_dropper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14034/framework3/trunk/modules/auxiliary/server/webkit_xslt_dropper.rb
+END
+fakedns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/server/fakedns.rb
+END
+pxexploit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13646/framework3/trunk/modules/auxiliary/server/pxexploit.rb
+END

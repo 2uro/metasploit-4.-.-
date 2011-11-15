@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12734/framework3/trunk/lib/rex/zip
+END
+blocks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8439/framework3/trunk/lib/rex/zip/blocks.rb
+END
+archive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12718/framework3/trunk/lib/rex/zip/archive.rb
+END
+entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12718/framework3/trunk/lib/rex/zip/entry.rb
+END
+jar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12734/framework3/trunk/lib/rex/zip/jar.rb
+END

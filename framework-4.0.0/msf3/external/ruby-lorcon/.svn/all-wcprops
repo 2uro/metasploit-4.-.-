@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7222/framework3/trunk/external/ruby-lorcon
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6232/framework3/trunk/external/ruby-lorcon/test.rb
+END
+Lorcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5124/framework3/trunk/external/ruby-lorcon/Lorcon.h
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5545/framework3/trunk/external/ruby-lorcon/extconf.rb
+END
+Lorcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7222/framework3/trunk/external/ruby-lorcon/Lorcon.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5545/framework3/trunk/external/ruby-lorcon/README
+END

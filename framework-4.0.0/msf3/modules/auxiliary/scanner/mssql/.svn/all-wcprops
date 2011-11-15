@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/mssql
+END
+mssql_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/mssql/mssql_login.rb
+END
+mssql_hashdump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/mssql/mssql_hashdump.rb
+END
+mssql_ping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/scanner/mssql/mssql_ping.rb
+END

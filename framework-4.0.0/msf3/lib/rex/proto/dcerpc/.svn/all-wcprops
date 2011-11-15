@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/client.rb
+END
+response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/response.rb
+END
+uuid.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/uuid.rb.ut.rb
+END
+packet.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/packet.rb.ut.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/exceptions.rb
+END
+ndr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/ndr.rb
+END
+handle.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/handle.rb.ut.rb
+END
+uuid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/uuid.rb
+END
+client.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/client.rb.ut.rb
+END
+packet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/packet.rb
+END
+response.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/response.rb.ut.rb
+END
+handle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/handle.rb
+END
+ndr.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/dcerpc/ndr.rb.ut.rb
+END

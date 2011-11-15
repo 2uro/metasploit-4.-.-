@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7001/framework3/trunk/external/source/meterpreter/source/openssl/lib/win/x64
+END
+libeay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7001/framework3/trunk/external/source/meterpreter/source/openssl/lib/win/x64/libeay32.lib
+END
+ssleay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7001/framework3/trunk/external/source/meterpreter/source/openssl/lib/win/x64/ssleay32.lib
+END
+build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7001/framework3/trunk/external/source/meterpreter/source/openssl/lib/win/x64/build.txt
+END

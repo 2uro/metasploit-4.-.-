@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13786/framework3/trunk/modules/auxiliary/scanner/portscan
+END
+ack.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13381/framework3/trunk/modules/auxiliary/scanner/portscan/ack.rb
+END
+ftpbounce.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9929/framework3/trunk/modules/auxiliary/scanner/portscan/ftpbounce.rb
+END
+tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13342/framework3/trunk/modules/auxiliary/scanner/portscan/tcp.rb
+END
+xmas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13786/framework3/trunk/modules/auxiliary/scanner/portscan/xmas.rb
+END
+syn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13442/framework3/trunk/modules/auxiliary/scanner/portscan/syn.rb
+END

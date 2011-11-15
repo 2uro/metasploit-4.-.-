@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/rservices
+END
+rexec_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/rservices/rexec_login.rb
+END
+rlogin_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/rservices/rlogin_login.rb
+END
+rsh_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/rservices/rsh_login.rb
+END

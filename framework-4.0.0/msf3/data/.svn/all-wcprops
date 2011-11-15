@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14238/framework3/trunk/data
+END
+isight.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14221/framework3/trunk/data/isight.bundle
+END
+eicar.com
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14221/framework3/trunk/data/eicar.com
+END
+eicar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14221/framework3/trunk/data/eicar.txt
+END
+emailer_config.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14221/framework3/trunk/data/emailer_config.yaml
+END
+vncdll.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14221/framework3/trunk/data/vncdll.dll
+END
+vncdll.x64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14221/framework3/trunk/data/vncdll.x64.dll
+END

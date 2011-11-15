@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13582/framework3/trunk/external/source/meterpreter/source/extensions/priv/server
+END
+priv.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8293/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/priv.c
+END
+passwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/13582/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/passwd.c
+END
+timestomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/timestomp.c
+END
+passwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/passwd.h
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7008/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/fs.c
+END
+precomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8293/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/precomp.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/priv/server/fs.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc
+END
+core_classes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core_classes.txt
+END
+feature_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/feature_list.txt
+END
+code_organisation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/code_organisation.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/index.txt
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/style.css
+END
+use_cases.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/use_cases.txt
+END
+install_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/install_notes.txt
+END
+const_missing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/const_missing.txt
+END

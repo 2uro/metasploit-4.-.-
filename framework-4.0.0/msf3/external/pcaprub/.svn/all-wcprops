@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14222/framework3/trunk/external/pcaprub
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5139/framework3/trunk/external/pcaprub/LICENSE
+END
+netifaces.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13624/framework3/trunk/external/pcaprub/netifaces.c
+END
+netifaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13622/framework3/trunk/external/pcaprub/netifaces.h
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12799/framework3/trunk/external/pcaprub/extconf.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12799/framework3/trunk/external/pcaprub/README
+END
+pcaprub.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14222/framework3/trunk/external/pcaprub/pcaprub.c
+END
+test_pcaprub.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12811/framework3/trunk/external/pcaprub/test_pcaprub.rb
+END

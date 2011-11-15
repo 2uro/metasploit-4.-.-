@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/14242/framework3/trunk
+END
+msfopcode
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14035/framework3/trunk/msfopcode
+END
+msfpescan
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9212/framework3/trunk/msfpescan
+END
+msfelfscan
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9212/framework3/trunk/msfelfscan
+END
+msfmachscan
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9212/framework3/trunk/msfmachscan
+END
+msfbinscan
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12862/framework3/trunk/msfbinscan
+END
+msfupdate
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14035/framework3/trunk/msfupdate
+END
+armitage
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11571/framework3/trunk/armitage
+END
+msfd
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12499/framework3/trunk/msfd
+END
+msfvenom
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14233/framework3/trunk/msfvenom
+END
+msfrpc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/13416/framework3/trunk/msfrpc
+END
+msfgui
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10806/framework3/trunk/msfgui
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/13374/framework3/trunk/README
+END
+msfrpcd
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/13416/framework3/trunk/msfrpcd
+END
+msfpayload
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12533/framework3/trunk/msfpayload
+END
+msfencode
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/11752/framework3/trunk/msfencode
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14227/framework3/trunk/HACKING
+END
+msfrop
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14035/framework3/trunk/msfrop
+END
+msfconsole
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11748/framework3/trunk/msfconsole
+END
+msfcli
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14035/framework3/trunk/msfcli
+END

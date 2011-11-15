@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13815/framework3/trunk/modules/auxiliary/admin/mysql
+END
+mysql_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7978/framework3/trunk/modules/auxiliary/admin/mysql/mysql_sql.rb
+END
+mysql_enum.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13815/framework3/trunk/modules/auxiliary/admin/mysql/mysql_enum.rb
+END

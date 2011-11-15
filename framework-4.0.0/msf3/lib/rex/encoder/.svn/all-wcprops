@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/encoder
+END
+xdr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/xdr.rb
+END
+nonalpha.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/nonalpha.rb
+END
+ndr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/ndr.rb
+END
+nonupper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/nonupper.rb
+END
+xdr.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/xdr.rb.ut.rb
+END
+alpha2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/encoder/alpha2.rb
+END
+xor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/encoder/xor.rb
+END
+ndr.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/encoder/ndr.rb.ut.rb
+END

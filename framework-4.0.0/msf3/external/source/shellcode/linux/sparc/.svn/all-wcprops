@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/linux/sparc
+END
+single_findsock.s
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/linux/sparc/single_findsock.s
+END
+single_reverse_tcp.s
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/linux/sparc/single_reverse_tcp.s
+END
+single_bind_tcp.s
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/linux/sparc/single_bind_tcp.s
+END

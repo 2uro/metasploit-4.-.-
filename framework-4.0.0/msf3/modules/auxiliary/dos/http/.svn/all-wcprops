@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/http
+END
+dell_openmanage_post.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/http/dell_openmanage_post.rb
+END
+webrick_regex.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/http/webrick_regex.rb
+END
+apache_tomcat_transfer_encoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/dos/http/apache_tomcat_transfer_encoding.rb
+END
+apache_range_dos.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/http/apache_range_dos.rb
+END
+sonicwall_ssl_format.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12261/framework3/trunk/modules/auxiliary/dos/http/sonicwall_ssl_format.rb
+END
+apache_mod_isapi.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9977/framework3/trunk/modules/auxiliary/dos/http/apache_mod_isapi.rb
+END
+3com_superstack_switch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/http/3com_superstack_switch.rb
+END

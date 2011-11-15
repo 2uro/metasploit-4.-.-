@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13532/framework3/trunk/modules/encoders/x86
+END
+call4_dword_xor.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/call4_dword_xor.rb.ut.rb
+END
+context_stat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10394/framework3/trunk/modules/encoders/x86/context_stat.rb
+END
+countdown.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/countdown.rb
+END
+shikata_ga_nai.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13532/framework3/trunk/modules/encoders/x86/shikata_ga_nai.rb
+END
+avoid_utf8_tolower.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/avoid_utf8_tolower.rb
+END
+single_static_bit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/single_static_bit.rb
+END
+call4_dword_xor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/call4_dword_xor.rb
+END
+jmp_call_additive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/jmp_call_additive.rb
+END
+fnstenv_mov.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/fnstenv_mov.rb.ut.rb
+END
+alpha_upper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7840/framework3/trunk/modules/encoders/x86/alpha_upper.rb
+END
+nonalpha.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/nonalpha.rb
+END
+unicode_upper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11045/framework3/trunk/modules/encoders/x86/unicode_upper.rb
+END
+context_time.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9460/framework3/trunk/modules/encoders/x86/context_time.rb
+END
+fnstenv_mov.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/fnstenv_mov.rb
+END
+nonupper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/nonupper.rb
+END
+context_cpuid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9460/framework3/trunk/modules/encoders/x86/context_cpuid.rb
+END
+countdown.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/countdown.rb.ut.rb
+END
+alpha_mixed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9212/framework3/trunk/modules/encoders/x86/alpha_mixed.rb
+END
+unicode_mixed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9179/framework3/trunk/modules/encoders/x86/unicode_mixed.rb
+END

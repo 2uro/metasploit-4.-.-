@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13281/framework3/trunk/lib/rex/ui/text/input
+END
+stdio.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/ui/text/input/stdio.rb
+END
+readline.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13281/framework3/trunk/lib/rex/ui/text/input/readline.rb
+END
+socket.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/ui/text/input/socket.rb
+END
+buffer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12525/framework3/trunk/lib/rex/ui/text/input/buffer.rb
+END

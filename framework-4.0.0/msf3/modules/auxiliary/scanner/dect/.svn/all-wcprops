@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13949/framework3/trunk/modules/auxiliary/scanner/dect
+END
+call_scanner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13949/framework3/trunk/modules/auxiliary/scanner/dect/call_scanner.rb
+END
+station_scanner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13949/framework3/trunk/modules/auxiliary/scanner/dect/station_scanner.rb
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11547/framework3/trunk/lib/net/ssh/authentication/methods
+END
+keyboard_interactive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11547/framework3/trunk/lib/net/ssh/authentication/methods/keyboard_interactive.rb
+END
+password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9059/framework3/trunk/lib/net/ssh/authentication/methods/password.rb
+END
+abstract.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/authentication/methods/abstract.rb
+END
+publickey.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9563/framework3/trunk/lib/net/ssh/authentication/methods/publickey.rb
+END
+hostbased.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/authentication/methods/hostbased.rb
+END

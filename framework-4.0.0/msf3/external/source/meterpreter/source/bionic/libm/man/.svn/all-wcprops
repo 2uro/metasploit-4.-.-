@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man
+END
+tan.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/tan.3
+END
+atan.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/atan.3
+END
+cos.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/cos.3
+END
+acos.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/acos.3
+END
+lrint.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/lrint.3
+END
+sin.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/sin.3
+END
+sqrt.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/sqrt.3
+END
+asin.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/asin.3
+END
+tanh.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/tanh.3
+END
+trunc.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/trunc.3
+END
+ilogb.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/ilogb.3
+END
+cosh.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/cosh.3
+END
+lgamma.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/lgamma.3
+END
+fenv.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fenv.3
+END
+signbit.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/signbit.3
+END
+fegetround.3
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fegetround.3
+END
+asinh.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/asinh.3
+END
+scalbn.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/scalbn.3
+END
+hypot.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/hypot.3
+END
+fegetenv.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fegetenv.3
+END
+lround.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/lround.3
+END
+feenableexcept.3
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/feenableexcept.3
+END
+erf.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/erf.3
+END
+rint.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/rint.3
+END
+fdim.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fdim.3
+END
+cimag.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/cimag.3
+END
+floor.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/floor.3
+END
+fmod.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fmod.3
+END
+round.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/round.3
+END
+math.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/math.3
+END
+atanh.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/atanh.3
+END
+fmax.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fmax.3
+END
+copysign.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/copysign.3
+END
+exp.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/exp.3
+END
+acosh.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/acosh.3
+END
+nextafter.3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/nextafter.3
+END
+sinh.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/sinh.3
+END
+fma.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fma.3
+END
+atan2.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/atan2.3
+END
+ieee_test.3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/ieee_test.3
+END
+remainder.3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/remainder.3
+END
+ieee.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/ieee.3
+END
+j0.3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/j0.3
+END
+feclearexcept.3
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/feclearexcept.3
+END
+fabs.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/fabs.3
+END
+ceil.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/man/ceil.3
+END

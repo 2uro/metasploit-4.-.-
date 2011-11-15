@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours
+END
+detoured.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/detoured.h
+END
+disasm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/disasm.cpp
+END
+creatwth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/creatwth.cpp
+END
+detoured.RES
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/detoured.RES
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/image.cpp
+END
+detours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/detours.cpp
+END
+modules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/modules.cpp
+END
+detours.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/detours.h
+END
+detoured.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/detoured.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/Makefile
+END
+detoured.rc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5633/framework3/trunk/external/source/byakugan/detours/detoured.rc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14225/framework3/trunk/lib/msf/ui/console
+END
+command_dispatcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/13630/framework3/trunk/lib/msf/ui/console/command_dispatcher.rb
+END
+table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/ui/console/table.rb
+END
+framework_event_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/ui/console/framework_event_manager.rb
+END
+module_command_dispatcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13630/framework3/trunk/lib/msf/ui/console/module_command_dispatcher.rb
+END
+driver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14212/framework3/trunk/lib/msf/ui/console/driver.rb
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14207/framework3/trunk/external/source/meterpreter/source/openssl
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10202/framework3/trunk/external/source/meterpreter/source/openssl/build.sh
+END

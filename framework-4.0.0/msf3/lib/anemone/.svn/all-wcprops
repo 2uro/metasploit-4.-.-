@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14176/framework3/trunk/lib/anemone
+END
+rex_http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13195/framework3/trunk/lib/anemone/rex_http.rb
+END
+http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14176/framework3/trunk/lib/anemone/http.rb
+END
+tentacle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/tentacle.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/exceptions.rb
+END
+storage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/storage.rb
+END
+cookie_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cookie_store.rb
+END
+cli.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/cli.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13195/framework3/trunk/lib/anemone/core.rb
+END
+page_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10924/framework3/trunk/lib/anemone/page_store.rb
+END
+page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11023/framework3/trunk/lib/anemone/page.rb
+END

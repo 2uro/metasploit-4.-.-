@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/oracle
+END
+isqlplus_sidbrute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13983/framework3/trunk/modules/auxiliary/scanner/oracle/isqlplus_sidbrute.rb
+END
+oracle_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/oracle/oracle_login.rb
+END
+xdb_sid_brute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14201/framework3/trunk/modules/auxiliary/scanner/oracle/xdb_sid_brute.rb
+END
+oracle_hashdump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13983/framework3/trunk/modules/auxiliary/scanner/oracle/oracle_hashdump.rb
+END
+sid_brute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/oracle/sid_brute.rb
+END
+emc_sid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14201/framework3/trunk/modules/auxiliary/scanner/oracle/emc_sid.rb
+END
+sid_enum.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14201/framework3/trunk/modules/auxiliary/scanner/oracle/sid_enum.rb
+END
+isqlplus_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/oracle/isqlplus_login.rb
+END
+tnslsnr_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11128/framework3/trunk/modules/auxiliary/scanner/oracle/tnslsnr_version.rb
+END
+spy_sid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14201/framework3/trunk/modules/auxiliary/scanner/oracle/spy_sid.rb
+END
+xdb_sid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14201/framework3/trunk/modules/auxiliary/scanner/oracle/xdb_sid.rb
+END

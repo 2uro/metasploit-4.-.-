@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13949/framework3/trunk/modules/auxiliary/scanner/sip
+END
+enumerator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12994/framework3/trunk/modules/auxiliary/scanner/sip/enumerator.rb
+END
+options_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/scanner/sip/options_tcp.rb
+END
+sipdroid_ext_enum.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/13949/framework3/trunk/modules/auxiliary/scanner/sip/sipdroid_ext_enum.rb
+END
+enumerator_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/scanner/sip/enumerator_tcp.rb
+END
+options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9929/framework3/trunk/modules/auxiliary/scanner/sip/options.rb
+END

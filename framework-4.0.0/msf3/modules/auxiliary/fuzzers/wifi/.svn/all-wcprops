@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12540/framework3/trunk/modules/auxiliary/fuzzers/wifi
+END
+fuzz_proberesp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12540/framework3/trunk/modules/auxiliary/fuzzers/wifi/fuzz_proberesp.rb
+END
+fuzz_beacon.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12540/framework3/trunk/modules/auxiliary/fuzzers/wifi/fuzz_beacon.rb
+END

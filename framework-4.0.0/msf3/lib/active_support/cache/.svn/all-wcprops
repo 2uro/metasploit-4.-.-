@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache
+END
+mem_cache_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache/mem_cache_store.rb
+END
+compressed_mem_cache_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache/compressed_mem_cache_store.rb
+END
+drb_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache/drb_store.rb
+END
+synchronized_memory_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache/synchronized_memory_store.rb
+END
+memory_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache/memory_store.rb
+END
+file_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/cache/file_store.rb
+END

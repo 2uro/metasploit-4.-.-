@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13275/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys
+END
+process.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13275/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/process.rb
+END
+event_log.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/event_log.rb
+END
+config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13275/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/config.rb
+END
+thread.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/thread.rb
+END
+registry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13275/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/registry.rb
+END
+power.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/power.rb
+END

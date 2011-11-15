@@ -1,0 +1,10 @@
+K 12
+svn:keywords
+V 22
+Rev Revision Id Header
+K 13
+svn:mergeinfo
+V 179
+/framework3/branches/feature/msf3-session/modules/auxiliary/gather/search_email_collector.rb:12060-12272
+/framework3/trunk/modules/auxiliary/gather/search_email_collector.rb:12538
+END

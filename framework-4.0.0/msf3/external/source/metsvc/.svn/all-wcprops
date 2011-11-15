@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8038/framework3/trunk/external/source/metsvc
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8038/framework3/trunk/external/source/metsvc/test.rb
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/ChangeLog.txt
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/VERSION
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7213/framework3/trunk/external/source/metsvc/README.txt
+END

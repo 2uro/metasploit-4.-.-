@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/byteorder
+END
+little_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/byteorder/little_endian.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/byteorder/generic.h
+END
+swab.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/byteorder/swab.h
+END
+swabb.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/byteorder/swabb.h
+END
+big_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/byteorder/big_endian.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13333/framework3/trunk/external/source/meterpreter/workspace/ext_server_sniffer
+END
+ext_server_sniffer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13044/framework3/trunk/external/source/meterpreter/workspace/ext_server_sniffer/ext_server_sniffer.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/13333/framework3/trunk/external/source/meterpreter/workspace/ext_server_sniffer/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14034/framework3/trunk/modules/payloads/stagers/java
+END
+reverse_https.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14034/framework3/trunk/modules/payloads/stagers/java/reverse_https.rb
+END
+reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13213/framework3/trunk/modules/payloads/stagers/java/reverse_tcp.rb
+END
+bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13213/framework3/trunk/modules/payloads/stagers/java/bind_tcp.rb
+END
+reverse_http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13402/framework3/trunk/modules/payloads/stagers/java/reverse_http.rb
+END

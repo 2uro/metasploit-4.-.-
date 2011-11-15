@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13053/framework3/trunk/external/source/shellcode/windows/x86/src/block
+END
+block_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_shell.asm
+END
+block_api.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_api.asm
+END
+block_exitfunk.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_exitfunk.asm
+END
+block_reverse_https.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13053/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_reverse_https.asm
+END
+block_recv.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12562/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_recv.asm
+END
+block_reverse_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7217/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_reverse_tcp.asm
+END
+block_reverse_tcp_allports.asm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7061/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_reverse_tcp_allports.asm
+END
+block_bind_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7035/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_bind_tcp.asm
+END
+block_reverse_ipv6_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12562/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_reverse_ipv6_tcp.asm
+END
+block_reverse_tcp_dns.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9002/framework3/trunk/external/source/shellcode/windows/x86/src/block/block_reverse_tcp_dns.asm
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13053/framework3/trunk/modules/payloads/stagers/windows
+END
+reverse_https.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13053/framework3/trunk/modules/payloads/stagers/windows/reverse_https.rb
+END
+findtag_ord.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/findtag_ord.rb
+END
+reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10394/framework3/trunk/modules/payloads/stagers/windows/reverse_tcp.rb
+END
+reverse_tcp_allports.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12491/framework3/trunk/modules/payloads/stagers/windows/reverse_tcp_allports.rb
+END
+bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/bind_tcp.rb
+END
+reverse_nonx_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/reverse_nonx_tcp.rb
+END
+bind_nonx_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/bind_nonx_tcp.rb
+END
+reverse_ipv6_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12562/framework3/trunk/modules/payloads/stagers/windows/reverse_ipv6_tcp.rb
+END
+reverse_ord_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/stagers/windows/reverse_ord_tcp.rb
+END
+reverse_tcp_dns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10394/framework3/trunk/modules/payloads/stagers/windows/reverse_tcp_dns.rb
+END
+bind_ipv6_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10543/framework3/trunk/modules/payloads/stagers/windows/bind_ipv6_tcp.rb
+END
+reverse_http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13053/framework3/trunk/modules/payloads/stagers/windows/reverse_http.rb
+END

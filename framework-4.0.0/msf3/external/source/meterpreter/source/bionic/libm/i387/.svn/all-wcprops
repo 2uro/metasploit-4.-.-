@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387
+END
+fenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/fenv.c
+END
+e_remainderf.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_remainderf.S
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/fenv.h
+END
+s_truncf.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_truncf.S
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/Makefile.inc
+END
+e_log.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_log.S
+END
+s_llrint.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_llrint.S
+END
+e_log10.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_log10.S
+END
+e_scalb.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_scalb.S
+END
+s_truncl.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_truncl.S
+END
+s_remquo.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_remquo.S
+END
+s_llrintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_llrintf.S
+END
+e_log10f.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_log10f.S
+END
+e_sqrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_sqrt.S
+END
+e_scalbf.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_scalbf.S
+END
+s_ceil.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_ceil.S
+END
+s_remquof.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_remquof.S
+END
+s_ceilf.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_ceilf.S
+END
+s_tan.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_tan.S
+END
+s_cos.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_cos.S
+END
+s_floorf.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_floorf.S
+END
+s_lrint.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_lrint.S
+END
+s_ceill.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_ceill.S
+END
+s_logbf.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_logbf.S
+END
+s_sin.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_sin.S
+END
+s_trunc.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_trunc.S
+END
+s_floorl.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_floorl.S
+END
+s_lrintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_lrintf.S
+END
+s_copysignf.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_copysignf.S
+END
+s_scalbn.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_scalbn.S
+END
+e_fmod.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_fmod.S
+END
+s_copysignl.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_copysignl.S
+END
+npx.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/npx.h
+END
+s_scalbnf.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_scalbnf.S
+END
+e_logf.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_logf.S
+END
+s_rint.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_rint.S
+END
+s_finite.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_finite.S
+END
+e_exp.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_exp.S
+END
+s_scalbnl.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_scalbnl.S
+END
+s_significand.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_significand.S
+END
+s_floor.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_floor.S
+END
+e_sqrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_sqrtf.S
+END
+s_rintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_rintf.S
+END
+s_logb.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_logb.S
+END
+s_significandf.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_significandf.S
+END
+e_remainder.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/e_remainder.S
+END
+s_copysign.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/i387/s_copysign.S
+END

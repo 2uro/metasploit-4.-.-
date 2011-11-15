@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/postgres
+END
+postgres_login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14229/framework3/trunk/modules/auxiliary/scanner/postgres/postgres_login.rb
+END
+postgres_hashdump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13961/framework3/trunk/modules/auxiliary/scanner/postgres/postgres_hashdump.rb
+END
+postgres_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13329/framework3/trunk/modules/auxiliary/scanner/postgres/postgres_version.rb
+END

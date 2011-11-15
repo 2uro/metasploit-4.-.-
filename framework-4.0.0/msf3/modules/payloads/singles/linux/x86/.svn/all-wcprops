@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86
+END
+shell_bind_ipv6_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86/shell_bind_ipv6_tcp.rb
+END
+metsvc_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8586/framework3/trunk/modules/payloads/singles/linux/x86/metsvc_reverse_tcp.rb
+END
+shell_find_tag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86/shell_find_tag.rb
+END
+metsvc_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8586/framework3/trunk/modules/payloads/singles/linux/x86/metsvc_bind_tcp.rb
+END
+exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10995/framework3/trunk/modules/payloads/singles/linux/x86/exec.rb
+END
+adduser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/singles/linux/x86/adduser.rb
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86/shell_bind_tcp.rb
+END
+chmod.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9212/framework3/trunk/modules/payloads/singles/linux/x86/chmod.rb
+END
+shell_reverse_tcp2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86/shell_reverse_tcp2.rb
+END
+shell_find_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/linux/x86/shell_find_port.rb
+END

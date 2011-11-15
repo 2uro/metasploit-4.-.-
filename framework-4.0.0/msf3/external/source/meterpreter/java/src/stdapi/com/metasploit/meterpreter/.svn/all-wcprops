@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/13346/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter
+END
+SocketChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/SocketChannel.java
+END
+DatagramSocketChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/DatagramSocketChannel.java
+END
+ProcessChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/ProcessChannel.java
+END
+ServerSocketChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/ServerSocketChannel.java
+END

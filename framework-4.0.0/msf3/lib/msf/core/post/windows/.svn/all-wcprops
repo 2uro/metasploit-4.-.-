@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13951/framework3/trunk/lib/msf/core/post/windows
+END
+accounts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/core/post/windows/accounts.rb
+END
+priv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13539/framework3/trunk/lib/msf/core/post/windows/priv.rb
+END
+cli_parse.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13740/framework3/trunk/lib/msf/core/post/windows/cli_parse.rb
+END
+registry.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13216/framework3/trunk/lib/msf/core/post/windows/registry.rb.ut.rb
+END
+user_profiles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13951/framework3/trunk/lib/msf/core/post/windows/user_profiles.rb
+END
+eventlog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12990/framework3/trunk/lib/msf/core/post/windows/eventlog.rb
+END
+services.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13417/framework3/trunk/lib/msf/core/post/windows/services.rb
+END
+registry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13951/framework3/trunk/lib/msf/core/post/windows/registry.rb
+END
+user_profiles.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13216/framework3/trunk/lib/msf/core/post/windows/user_profiles.rb.ut.rb
+END

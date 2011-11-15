@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13058/framework3/trunk/modules/payloads/singles/generic
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8621/framework3/trunk/modules/payloads/singles/generic/shell_reverse_tcp.rb
+END
+tight_loop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/singles/generic/tight_loop.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8621/framework3/trunk/modules/payloads/singles/generic/shell_bind_tcp.rb
+END
+custom.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13058/framework3/trunk/modules/payloads/singles/generic/custom.rb
+END
+debug_trap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9179/framework3/trunk/modules/payloads/singles/generic/debug_trap.rb
+END

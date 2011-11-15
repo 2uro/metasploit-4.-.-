@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13053/framework3/trunk/external/source/shellcode/windows/x86/src/stager
+END
+stager_reverse_https.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8984/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_https.asm
+END
+stager_reverse_tcp_dns_connect_only.asm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/8984/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_tcp_dns_connect_only.asm
+END
+stager_reverse_tcp_dns.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8983/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_tcp_dns.asm
+END
+stager_reverse_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_tcp_nx.asm
+END
+stager_reverse_tcp_nx_allports.asm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7058/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_tcp_nx_allports.asm
+END
+stager_bind_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6922/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_bind_tcp_nx.asm
+END
+stager_reverse_http.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/13053/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_http.asm
+END
+stager_reverse_ipv6_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12562/framework3/trunk/external/source/shellcode/windows/x86/src/stager/stager_reverse_ipv6_tcp_nx.asm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8520/framework3/trunk/lib/postgres
+END
+byteorder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8342/framework3/trunk/lib/postgres/byteorder.rb
+END
+binary_writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8342/framework3/trunk/lib/postgres/binary_writer.rb
+END
+binary_reader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8342/framework3/trunk/lib/postgres/binary_reader.rb
+END
+buffer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8342/framework3/trunk/lib/postgres/buffer.rb
+END

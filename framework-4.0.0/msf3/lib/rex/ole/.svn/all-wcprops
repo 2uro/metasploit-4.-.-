@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/ole
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/util.rb
+END
+clsid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/clsid.rb
+END
+substorage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/substorage.rb
+END
+direntry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/direntry.rb
+END
+directory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9287/framework3/trunk/lib/rex/ole/directory.rb
+END
+storage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10394/framework3/trunk/lib/rex/ole/storage.rb
+END
+difat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/difat.rb
+END
+minifat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/minifat.rb
+END
+header.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10394/framework3/trunk/lib/rex/ole/header.rb
+END
+fat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/fat.rb
+END
+stream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8457/framework3/trunk/lib/rex/ole/stream.rb
+END
+propset.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/ole/propset.rb
+END

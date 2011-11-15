@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate
+END
+20110112154300_add_module_uuid_to_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110112154300_add_module_uuid_to_tasks.rb
+END
+20100916151530_require_admin_flag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100916151530_require_admin_flag.rb
+END
+012_add_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/012_add_tasks.rb
+END
+20101002000000_add_query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101002000000_add_query.rb
+END
+006_add_timestamps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/006_add_timestamps.rb
+END
+025_add_user_admin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/025_add_user_admin.rb
+END
+20110204112800_add_host_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110204112800_add_host_tags.rb
+END
+20101104135100_add_imported_creds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101104135100_add_imported_creds.rb
+END
+20110422000000_convert_binary.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110422000000_convert_binary.rb
+END
+009_add_loots_ctype.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/009_add_loots_ctype.rb
+END
+20110415175705_add_routes_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110415175705_add_routes_table.rb
+END
+026_add_creds_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/026_add_creds_table.rb
+END
+20110624000001_add_listeners_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110624000001_add_listeners_table.rb
+END
+20100819123300_migrate_cred_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100819123300_migrate_cred_data.rb
+END
+013_add_tasks_result.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/013_add_tasks_result.rb
+END
+021_standardize_info_and_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/021_standardize_info_and_data.rb
+END
+20101007000000_add_vuln_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101007000000_add_vuln_info.rb
+END
+014_add_loots_fields.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/014_add_loots_fields.rb
+END
+20101008111800_add_clients_to_campaigns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101008111800_add_clients_to_campaigns.rb
+END
+20101001000000_add_web_tables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101001000000_add_web_tables.rb
+END
+20110717000001_add_profiles_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110717000001_add_profiles_table.rb
+END
+20101203000000_fix_web_tables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101203000000_fix_web_tables.rb
+END
+20110928101300_add_mod_ref_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13805/framework3/trunk/data/sql/migrate/20110928101300_add_mod_ref_table.rb
+END
+20110513143900_track_successful_exploits.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110513143900_track_successful_exploits.rb
+END
+011_add_reports.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/011_add_reports.rb
+END
+016_add_host_purpose.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/016_add_host_purpose.rb
+END
+020_add_user_preferences.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/020_add_user_preferences.rb
+END
+20110625000001_add_macro_to_listeners_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110625000001_add_macro_to_listeners_table.rb
+END
+20110730000001_add_initial_indexes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13552/framework3/trunk/data/sql/migrate/20110730000001_add_initial_indexes.rb
+END
+20110622000000_add_settings_to_tasks_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110622000000_add_settings_to_tasks_table.rb
+END
+017_expand_info2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/017_expand_info2.rb
+END
+004_add_events_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/004_add_events_table.rb
+END
+20110317144932_add_session_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110317144932_add_session_table.rb
+END
+20101203000001_expand_host_comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101203000001_expand_host_comment.rb
+END
+20110610085000_move_old_imported_creds_to_new_files.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110610085000_move_old_imported_creds_to_new_files.rb
+END
+008_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/008_create_users.rb
+END
+20111011110000_add_display_name_to_reports_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/13873/framework3/trunk/data/sql/migrate/20111011110000_add_display_name_to_reports_table.rb
+END
+20100926214000_add_template_prefs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100926214000_add_template_prefs.rb
+END
+005_expand_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/005_expand_info.rb
+END
+20110727163801_expand_cred_ptype_column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/13384/framework3/trunk/data/sql/migrate/20110727163801_expand_cred_ptype_column.rb
+END
+20110606000001_add_macros_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110606000001_add_macros_table.rb
+END
+20100911122000_add_report_templates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100911122000_add_report_templates.rb
+END
+20110630000002_add_name_to_nexpose_consoles_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110630000002_add_name_to_nexpose_consoles_table.rb
+END
+20110812000001_prune_indexes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13552/framework3/trunk/data/sql/migrate/20110812000001_prune_indexes.rb
+END
+20101206212033_add_limit_to_network_to_workspaces.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101206212033_add_limit_to_network_to_workspaces.rb
+END
+015_rename_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/015_rename_user.rb
+END
+023_add_report_downloaded_at.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/023_add_report_downloaded_at.rb
+END
+20110527000000_add_task_id_to_reports_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110527000000_add_task_id_to_reports_table.rb
+END
+20100920012100_add_generate_exe_column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100920012100_add_generate_exe_column.rb
+END
+024_convert_service_info_to_text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/024_convert_service_info_to_text.rb
+END
+20110922000000_expand_notes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13771/framework3/trunk/data/sql/migrate/20110922000000_expand_notes.rb
+END
+018_add_workspace_user_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/018_add_workspace_user_info.rb
+END
+20100824151500_add_exploited_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100824151500_add_exploited_table.rb
+END
+000_create_tables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/000_create_tables.rb
+END
+022_enlarge_event_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/022_enlarge_event_info.rb
+END
+20110630000001_add_nexpose_consoles_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110630000001_add_nexpose_consoles_table.rb
+END
+20110425095900_add_last_seen_to_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110425095900_add_last_seen_to_sessions.rb
+END
+20110414180600_add_local_id_to_session_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110414180600_add_local_id_to_session_table.rb
+END
+010_add_alert_fields.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/010_add_alert_fields.rb
+END
+20110608113500_add_cred_file_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110608113500_add_cred_file_table.rb
+END
+001_add_wmap_tables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/001_add_wmap_tables.rb
+END
+20110517160800_rename_and_prune_nessus_vulns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110517160800_rename_and_prune_nessus_vulns.rb
+END
+019_add_workspace_desc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/019_add_workspace_desc.rb
+END
+007_add_loots.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/007_add_loots.rb
+END
+003_move_notes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/003_move_notes.rb
+END
+20110527000001_add_api_keys_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20110527000001_add_api_keys_table.rb
+END
+20101009023300_add_campaign_attachments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20101009023300_add_campaign_attachments.rb
+END
+20100908001428_add_owner_to_workspaces.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100908001428_add_owner_to_workspaces.rb
+END
+20100916175000_add_campaigns_and_templates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/20100916175000_add_campaigns_and_templates.rb
+END
+002_add_workspaces.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/sql/migrate/002_add_workspaces.rb
+END

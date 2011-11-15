@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include
+END
+_read_exec.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_read_exec.s
+END
+_tcp_connect.s
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_tcp_connect.s
+END
+_dup2_std_fds.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_dup2_std_fds.s
+END
+_execve_binsh.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_execve_binsh.s
+END
+_tcp_listen.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_tcp_listen.s
+END
+_inject_bundle.s
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_inject_bundle.s
+END
+_shell.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_shell.s
+END
+_exit.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6353/framework3/trunk/external/source/osx/x86/include/_exit.s
+END

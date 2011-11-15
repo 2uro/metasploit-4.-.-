@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6570/framework3/trunk/external/source/shellcode/windows/msf2
+END
+win32_stage_boot_winsock_bind.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_winsock_bind.asm
+END
+passivex.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/passivex.asm
+END
+win32_stage_boot_reverse.asm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_reverse.asm
+END
+win32_stage_boot_bind.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_bind.asm
+END
+win32_stage_inlineegg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_inlineegg.asm
+END
+win32_stage_winexec.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_winexec.asm
+END
+win32_stage_boot_reverse_udp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_reverse_udp.asm
+END
+win32_stage_revert.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_revert.asm
+END
+win32_stage_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_shell.asm
+END
+win32_stage_api.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_api.asm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/README
+END
+win32_stage_boot_reverse_shell_revert.asm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_reverse_shell_revert.asm
+END
+win32_stage_boot_winsock_conn.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_winsock_conn.asm
+END
+win32_stage_boot_reverse_inlineegg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_reverse_inlineegg.asm
+END
+win32_stage_boot_bind_inlineegg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_bind_inlineegg.asm
+END
+win32_stage_boot_winsock_conn_udp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_winsock_conn_udp.asm
+END
+win32_stage_boot_reverse_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_reverse_shell.asm
+END
+win32_stage_boot_bind_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_bind_shell.asm
+END
+win32_stage_boot_reverse_read.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_reverse_read.asm
+END
+win32_stage_uploadexec.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_uploadexec.asm
+END
+win32_stage_boot_bind_read.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5635/framework3/trunk/external/source/shellcode/windows/msf2/win32_stage_boot_bind_read.asm
+END

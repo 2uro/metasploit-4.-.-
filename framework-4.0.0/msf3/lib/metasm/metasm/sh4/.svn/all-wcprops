@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/metasm/sh4
+END
+decode.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/metasm/sh4/decode.rb
+END
+main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/metasm/sh4/main.rb
+END
+opcodes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/metasm/sh4/opcodes.rb
+END

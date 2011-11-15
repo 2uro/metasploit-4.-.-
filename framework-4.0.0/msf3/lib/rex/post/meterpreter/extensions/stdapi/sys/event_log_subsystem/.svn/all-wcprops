@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/event_log_subsystem
+END
+event_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/sys/event_log_subsystem/event_record.rb
+END

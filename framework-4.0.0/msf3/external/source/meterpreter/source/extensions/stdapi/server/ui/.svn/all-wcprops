@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8984/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8787/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui/keyboard.c
+END
+ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8787/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui/ui.h
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui/mouse.c
+END
+desktop.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8984/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui/desktop.c
+END
+idle.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7000/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui/idle.c
+END
+ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/ui/ui.c
+END

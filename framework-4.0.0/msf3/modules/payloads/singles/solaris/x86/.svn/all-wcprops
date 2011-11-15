@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/solaris/x86
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/solaris/x86/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/solaris/x86/shell_bind_tcp.rb
+END
+shell_find_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11421/framework3/trunk/modules/payloads/singles/solaris/x86/shell_find_port.rb
+END

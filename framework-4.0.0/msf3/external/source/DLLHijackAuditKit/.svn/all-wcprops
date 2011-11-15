@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10140/framework3/trunk/external/source/DLLHijackAuditKit
+END
+regenerate_binaries.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10136/framework3/trunk/external/source/DLLHijackAuditKit/regenerate_binaries.rb
+END
+DLLAudit.pmc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10135/framework3/trunk/external/source/DLLHijackAuditKit/DLLAudit.pmc
+END
+audit.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10137/framework3/trunk/external/source/DLLHijackAuditKit/audit.js
+END
+runcalc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10136/framework3/trunk/external/source/DLLHijackAuditKit/runcalc.dll
+END
+package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10140/framework3/trunk/external/source/DLLHijackAuditKit/package.sh
+END
+runtest.exe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10136/framework3/trunk/external/source/DLLHijackAuditKit/runtest.exe
+END
+runcalc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10136/framework3/trunk/external/source/DLLHijackAuditKit/runcalc.exe
+END
+01_StartAudit.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10135/framework3/trunk/external/source/DLLHijackAuditKit/01_StartAudit.bat
+END
+02_Analyze.bat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10135/framework3/trunk/external/source/DLLHijackAuditKit/02_Analyze.bat
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10135/framework3/trunk/external/source/DLLHijackAuditKit/README.txt
+END
+analyze.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10138/framework3/trunk/external/source/DLLHijackAuditKit/analyze.js
+END
+runtest.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10136/framework3/trunk/external/source/DLLHijackAuditKit/runtest.dll
+END

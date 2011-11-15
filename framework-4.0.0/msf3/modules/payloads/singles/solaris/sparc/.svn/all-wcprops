@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/solaris/sparc
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/solaris/sparc/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/solaris/sparc/shell_bind_tcp.rb
+END
+shell_find_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/solaris/sparc/shell_find_port.rb
+END

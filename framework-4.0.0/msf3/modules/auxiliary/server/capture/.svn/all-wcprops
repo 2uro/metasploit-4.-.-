@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture
+END
+http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/http.rb
+END
+pop3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/pop3.rb
+END
+smb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/smb.rb
+END
+smtp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/smtp.rb
+END
+imap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/imap.rb
+END
+ftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/ftp.rb
+END
+http_ntlm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/http_ntlm.rb
+END
+telnet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14193/framework3/trunk/modules/auxiliary/server/capture/telnet.rb
+END

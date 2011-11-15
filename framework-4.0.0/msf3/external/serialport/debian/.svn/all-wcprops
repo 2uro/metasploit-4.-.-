@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/debian/control
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/debian/rules
+END

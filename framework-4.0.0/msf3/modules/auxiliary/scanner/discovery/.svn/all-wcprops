@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14165/framework3/trunk/modules/auxiliary/scanner/discovery
+END
+udp_probe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14165/framework3/trunk/modules/auxiliary/scanner/discovery/udp_probe.rb
+END
+ipv6_neighbor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13381/framework3/trunk/modules/auxiliary/scanner/discovery/ipv6_neighbor.rb
+END
+arp_sweep.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/discovery/arp_sweep.rb
+END
+ipv6_multicast_ping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/scanner/discovery/ipv6_multicast_ping.rb
+END
+ipv6_neighbor_router_advertisement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/13983/framework3/trunk/modules/auxiliary/scanner/discovery/ipv6_neighbor_router_advertisement.rb
+END
+udp_sweep.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14165/framework3/trunk/modules/auxiliary/scanner/discovery/udp_sweep.rb
+END

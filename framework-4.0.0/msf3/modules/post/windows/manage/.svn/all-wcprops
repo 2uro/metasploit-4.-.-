@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14190/framework3/trunk/modules/post/windows/manage
+END
+add_user_domain.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/add_user_domain.rb
+END
+inject_ca.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14122/framework3/trunk/modules/post/windows/manage/inject_ca.rb
+END
+persistence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14186/framework3/trunk/modules/post/windows/manage/persistence.rb
+END
+payload_inject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14190/framework3/trunk/modules/post/windows/manage/payload_inject.rb
+END
+autoroute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/autoroute.rb
+END
+run_as.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/run_as.rb
+END
+migrate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/migrate.rb
+END
+nbd_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14122/framework3/trunk/modules/post/windows/manage/nbd_server.rb
+END
+remove_host.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14037/framework3/trunk/modules/post/windows/manage/remove_host.rb
+END
+enable_rdp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/enable_rdp.rb
+END
+pxexploit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/pxexploit.rb
+END
+delete_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/delete_user.rb
+END
+remove_ca.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14122/framework3/trunk/modules/post/windows/manage/remove_ca.rb
+END
+multi_meterpreter_inject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14175/framework3/trunk/modules/post/windows/manage/multi_meterpreter_inject.rb
+END
+inject_host.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14037/framework3/trunk/modules/post/windows/manage/inject_host.rb
+END

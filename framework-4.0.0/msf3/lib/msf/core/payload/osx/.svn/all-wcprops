@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8984/framework3/trunk/lib/msf/core/payload/osx
+END
+bundleinject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8984/framework3/trunk/lib/msf/core/payload/osx/bundleinject.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14207/framework3/trunk/external/source/meterpreter/workspace/ext_server_stdapi
+END
+ext_server_stdapi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/13060/framework3/trunk/external/source/meterpreter/workspace/ext_server_stdapi/ext_server_stdapi.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13333/framework3/trunk/external/source/meterpreter/workspace/ext_server_stdapi/Makefile
+END

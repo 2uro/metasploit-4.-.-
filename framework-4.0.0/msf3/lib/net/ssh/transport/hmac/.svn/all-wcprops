@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac
+END
+none.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac/none.rb
+END
+abstract.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac/abstract.rb
+END
+md5_96.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac/md5_96.rb
+END
+md5.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac/md5.rb
+END
+sha1_96.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac/sha1_96.rb
+END
+sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/transport/hmac/sha1.rb
+END

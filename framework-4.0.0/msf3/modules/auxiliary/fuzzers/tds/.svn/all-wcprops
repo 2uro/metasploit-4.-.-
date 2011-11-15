@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12540/framework3/trunk/modules/auxiliary/fuzzers/tds
+END
+tds_login_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/tds/tds_login_corrupt.rb
+END
+tds_login_username.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12540/framework3/trunk/modules/auxiliary/fuzzers/tds/tds_login_username.rb
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10173/framework3/trunk/lib/zip/samples
+END
+example_filesystem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/samples/example_filesystem.rb
+END
+write_simple.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10173/framework3/trunk/lib/zip/samples/write_simple.rb
+END
+zipfind.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/samples/zipfind.rb
+END
+qtzip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/samples/qtzip.rb
+END
+gtkRubyzip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/samples/gtkRubyzip.rb
+END
+example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9478/framework3/trunk/lib/zip/samples/example.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11686/framework3/trunk/lib/net/ssh/connection
+END
+session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11686/framework3/trunk/lib/net/ssh/connection/session.rb
+END
+term.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/connection/term.rb
+END
+channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/connection/channel.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/connection/constants.rb
+END

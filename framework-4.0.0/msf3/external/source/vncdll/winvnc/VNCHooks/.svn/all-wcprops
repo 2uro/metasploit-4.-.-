@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks
+END
+VNCHooks.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks.dsp
+END
+VNCHooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks.h
+END
+VNCHooks.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks.def
+END
+VNCHooks-vc8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks-vc8.vcproj
+END
+VNCHooks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks.cpp
+END
+VNCHooks.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks.vcproj
+END
+VNCHooks.rc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/VNCHooks.rc
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/VNCHooks/resource.h
+END

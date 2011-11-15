@@ -1,0 +1,886 @@
+have_func: checking for getifaddrs()... -------------------- yes
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic     -lruby1.8-static  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+conftest.c: In function ‘t’:
+conftest.c:3: error: ‘getifaddrs’ undeclared (first use in this function)
+conftest.c:3: error: (Each undeclared identifier is reported only once
+conftest.c:3: error: for each function it appears in.)
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { void ((*volatile p)()); p = (void ((*)()))getifaddrs; return 0; }
+/* end */
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic     -lruby1.8-static  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { getifaddrs(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for getnameinfo()... -------------------- yes
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic     -lruby1.8-static  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+conftest.c: In function ‘t’:
+conftest.c:3: error: ‘getnameinfo’ undeclared (first use in this function)
+conftest.c:3: error: (Each undeclared identifier is reported only once
+conftest.c:3: error: for each function it appears in.)
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { void ((*volatile p)()); p = (void ((*)()))getnameinfo; return 0; }
+/* end */
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic     -lruby1.8-static  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { getnameinfo(); return 0; }
+/* end */
+
+--------------------
+
+have_header: checking for net/if_dl.h... -------------------- no
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+conftest.c:1:23: error: net/if_dl.h: No such file or directory
+checked program was:
+/* begin */
+1: #include <net/if_dl.h>
+/* end */
+
+--------------------
+
+have_header: checking for netash/ash.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <netash/ash.h>
+/* end */
+
+--------------------
+
+have_header: checking for netatalk/at.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <netatalk/at.h>
+/* end */
+
+--------------------
+
+have_header: checking for netax25/ax25.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <netax25/ax25.h>
+/* end */
+
+--------------------
+
+have_header: checking for neteconet/ec.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <neteconet/ec.h>
+/* end */
+
+--------------------
+
+have_header: checking for netipx/ipx.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <netipx/ipx.h>
+/* end */
+
+--------------------
+
+have_header: checking for netpacket/packet.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <netpacket/packet.h>
+/* end */
+
+--------------------
+
+have_header: checking for netrose/rose.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <netrose/rose.h>
+/* end */
+
+--------------------
+
+have_header: checking for linux/irda.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <linux/irda.h>
+/* end */
+
+--------------------
+
+have_header: checking for linux/atm.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <linux/atm.h>
+/* end */
+
+--------------------
+
+have_header: checking for linux/llc.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <linux/llc.h>
+/* end */
+
+--------------------
+
+have_header: checking for linux/tipc.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <linux/tipc.h>
+/* end */
+
+--------------------
+
+have_header: checking for linux/dn.h... -------------------- yes
+
+"gcc -E -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC    conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include <linux/dn.h>
+/* end */
+
+--------------------
+
+have_struct_member: checking for struct sockaddr.sa_len in sys/types.h,sys/socket.h,net/if.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:7: error: ‘struct sockaddr’ has no member named ‘sa_len’
+checked program was:
+/* begin */
+1: #include <sys/types.h>
+2: #include <sys/socket.h>
+3: #include <net/if.h>
+4: 
+5: /*top*/
+6: int main() { return 0; }
+7: int s = (char *)&((struct sockaddr*)0)->sa_len - (char *)0;
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_at in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_at conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_ax25 in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_ax25 conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_dl in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:21: error: invalid application of ‘sizeof’ to incomplete type ‘conftest_type’ 
+conftest.c:21: error: size of array ‘conftestval’ is negative
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_dl conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_eon in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:21: error: invalid application of ‘sizeof’ to incomplete type ‘conftest_type’ 
+conftest.c:21: error: size of array ‘conftestval’ is negative
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_eon conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_in in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_in conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_in6 in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_in6 conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_inarp in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:21: error: invalid application of ‘sizeof’ to incomplete type ‘conftest_type’ 
+conftest.c:21: error: size of array ‘conftestval’ is negative
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_inarp conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_ipx in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_ipx conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_iso in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:21: error: invalid application of ‘sizeof’ to incomplete type ‘conftest_type’ 
+conftest.c:21: error: size of array ‘conftestval’ is negative
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_iso conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_ns in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:21: error: invalid application of ‘sizeof’ to incomplete type ‘conftest_type’ 
+conftest.c:21: error: size of array ‘conftestval’ is negative
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_ns conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_un in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_un conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_x25 in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- no
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+conftest.c:21: error: invalid application of ‘sizeof’ to incomplete type ‘conftest_type’ 
+conftest.c:21: error: size of array ‘conftestval’ is negative
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_x25 conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_rose in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_rose conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_ash in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_ash conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_ec in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_ec conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_ll in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_ll conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_atmpvc in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_atmpvc conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_atmsvc in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_atmsvc conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_dn in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_dn conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_irda in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_irda conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_type: checking for struct sockaddr_llc in sys/types.h,sys/socket.h,sys/un.h,net/if.h,netinet/in.h,netash/ash.h,netatalk/at.h,netax25/ax25.h,neteconet/ec.h,netipx/ipx.h,netpacket/packet.h,netrose/rose.h,linux/irda.h,linux/atm.h,linux/llc.h,linux/tipc.h,linux/dn.h... -------------------- yes
+
+"gcc -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC     -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include <sys/types.h>
+ 2: #include <sys/socket.h>
+ 3: #include <sys/un.h>
+ 4: #include <net/if.h>
+ 5: #include <netinet/in.h>
+ 6: #include <netash/ash.h>
+ 7: #include <netatalk/at.h>
+ 8: #include <netax25/ax25.h>
+ 9: #include <neteconet/ec.h>
+10: #include <netipx/ipx.h>
+11: #include <netpacket/packet.h>
+12: #include <netrose/rose.h>
+13: #include <linux/irda.h>
+14: #include <linux/atm.h>
+15: #include <linux/llc.h>
+16: #include <linux/tipc.h>
+17: #include <linux/dn.h>
+18: 
+19: /*top*/
+20: typedef struct sockaddr_llc conftest_type;
+21: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_library: checking for pcap_open_live() in -lpcap... -------------------- yes
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic     -lruby1.8-static -lpcap  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+conftest.c: In function ‘t’:
+conftest.c:3: error: ‘pcap_open_live’ undeclared (first use in this function)
+conftest.c:3: error: (Each undeclared identifier is reported only once
+conftest.c:3: error: for each function it appears in.)
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { void ((*volatile p)()); p = (void ((*)()))pcap_open_live; return 0; }
+/* end */
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic     -lruby1.8-static -lpcap  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { pcap_open_live(); return 0; }
+/* end */
+
+--------------------
+
+have_library: checking for pcap_setnonblock() in -lpcap... -------------------- yes
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic    -lpcap  -lruby1.8-static -lpcap -lpcap  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+conftest.c: In function ‘t’:
+conftest.c:3: error: ‘pcap_setnonblock’ undeclared (first use in this function)
+conftest.c:3: error: (Each undeclared identifier is reported only once
+conftest.c:3: error: for each function it appears in.)
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { void ((*volatile p)()); p = (void ((*)()))pcap_setnonblock; return 0; }
+/* end */
+
+"gcc -o conftest -I. -I/usr/lib/ruby/1.8/i486-linux -I.  -D_FILE_OFFSET_BITS=64  -fno-strict-aliasing -g -g -O2  -fPIC   conftest.c  -L. -L/usr/lib -L. -Wl,-Bsymbolic-functions -rdynamic -Wl,-export-dynamic    -lpcap  -lruby1.8-static -lpcap -lpcap  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+checked program was:
+/* begin */
+1: /*top*/
+2: int main() { return 0; }
+3: int t() { pcap_setnonblock(); return 0; }
+/* end */
+
+--------------------
+

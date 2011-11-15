@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13983/framework3/trunk/modules/auxiliary/admin/mssql
+END
+mssql_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13329/framework3/trunk/modules/auxiliary/admin/mssql/mssql_sql.rb
+END
+mssql_idf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9744/framework3/trunk/modules/auxiliary/admin/mssql/mssql_idf.rb
+END
+mssql_enum.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13983/framework3/trunk/modules/auxiliary/admin/mssql/mssql_enum.rb
+END
+mssql_exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9653/framework3/trunk/modules/auxiliary/admin/mssql/mssql_exec.rb
+END

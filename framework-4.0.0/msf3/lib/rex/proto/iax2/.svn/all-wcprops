@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/client.rb
+END
+codecs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/codecs.rb
+END
+call.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/call.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13483/framework3/trunk/lib/rex/proto/iax2/constants.rb
+END

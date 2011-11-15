@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc
+END
+pe.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/pe.asm
+END
+nasm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/nasm.inc
+END
+win32dll.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/win32dll.inc
+END
+win32n.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/win32n.inc
+END
+win32.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/win32.inc
+END
+byte.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/byte.inc
+END
+language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/language.inc
+END
+pe.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/pe.inc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/README
+END
+function.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/templates/inc/function.inc
+END

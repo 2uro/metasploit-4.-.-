@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/13536/framework3/trunk/lib/net
+END
+ssh.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13536/framework3/trunk/lib/net/ssh.rb
+END
+dns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9369/framework3/trunk/lib/net/dns.rb
+END
+ssh.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8527/framework3/trunk/lib/net/ssh.rb.ut.rb
+END

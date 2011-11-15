@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12991/framework3/trunk/lib/rex/proto/smb
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12227/framework3/trunk/lib/rex/proto/smb/client.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/utils.rb
+END
+crypt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/crypt.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/exceptions.rb
+END
+simpleclient.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/simpleclient.rb.ut.rb
+END
+constants.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/constants.rb.ut.rb
+END
+client.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/client.rb.ut.rb
+END
+evasions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/evasions.rb
+END
+simpleclient.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12991/framework3/trunk/lib/rex/proto/smb/simpleclient.rb
+END
+utils.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/proto/smb/utils.rb.ut.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12502/framework3/trunk/lib/rex/proto/smb/constants.rb
+END

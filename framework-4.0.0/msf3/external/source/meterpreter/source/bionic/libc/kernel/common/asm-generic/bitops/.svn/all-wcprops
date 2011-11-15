@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops
+END
+__ffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/__ffs.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/atomic.h
+END
+fls64.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/fls64.h
+END
+find.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/find.h
+END
+le.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/le.h
+END
+fls.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/fls.h
+END
+non-atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/non-atomic.h
+END
+ffz.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/asm-generic/bitops/ffz.h
+END

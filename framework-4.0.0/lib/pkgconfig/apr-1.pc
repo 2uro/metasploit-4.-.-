@@ -1,0 +1,11 @@
+prefix=/opt/metasploit3
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+APR_MAJOR_VERSION=1
+includedir=${prefix}/include/apr-${APR_MAJOR_VERSION}
+
+Name: APR
+Description: The Apache Portable Runtime library
+Version: 1.3.8
+Libs: -L${libdir} -lapr-${APR_MAJOR_VERSION} -lrt -lcrypt  -lpthread -ldl
+Cflags: -DLINUX=2 -D_REENTRANT -D_GNU_SOURCE -D_LARGEFILE64_SOURCE -g -O2 -pthread -I${includedir}

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13764/framework3/trunk/modules/auxiliary/scanner/rogue
+END
+rogue_recv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13764/framework3/trunk/modules/auxiliary/scanner/rogue/rogue_recv.rb
+END
+rogue_send.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13342/framework3/trunk/modules/auxiliary/scanner/rogue/rogue_send.rb
+END

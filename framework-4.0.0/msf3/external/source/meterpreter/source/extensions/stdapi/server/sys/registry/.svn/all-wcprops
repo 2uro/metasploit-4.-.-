@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/13089/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/sys/registry
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/13089/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/sys/registry/registry.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/13089/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/sys/registry/registry.h
+END

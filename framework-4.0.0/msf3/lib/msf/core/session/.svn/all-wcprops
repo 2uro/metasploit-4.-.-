@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/core/session
+END
+interactive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/core/session/interactive.rb
+END
+basic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12273/framework3/trunk/lib/msf/core/session/basic.rb
+END
+netware_console.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8795/framework3/trunk/lib/msf/core/session/netware_console.rb
+END
+comm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/core/session/comm.rb
+END

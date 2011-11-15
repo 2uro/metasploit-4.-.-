@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/multibyte
+END
+chars.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/multibyte/chars.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/multibyte/utils.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/multibyte/exceptions.rb
+END
+unicode_database.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10682/framework3/trunk/lib/active_support/multibyte/unicode_database.rb
+END

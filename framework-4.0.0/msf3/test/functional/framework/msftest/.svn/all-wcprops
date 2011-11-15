@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11736/framework3/trunk/test/functional/framework/msftest
+END
+db_connect_unconnected.msftest
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11674/framework3/trunk/test/functional/framework/msftest/db_connect_unconnected.msftest
+END
+100_continue.msftest
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11675/framework3/trunk/test/functional/framework/msftest/100_continue.msftest
+END
+psexec.msftest
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11736/framework3/trunk/test/functional/framework/msftest/psexec.msftest
+END

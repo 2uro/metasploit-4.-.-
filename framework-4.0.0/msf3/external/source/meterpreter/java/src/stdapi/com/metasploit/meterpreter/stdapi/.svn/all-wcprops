@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13346/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi
+END
+stdapi_ui_desktop_screenshot_V1_4.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_ui_desktop_screenshot_V1_4.java
+END
+channel_create_stdapi_net_tcp_server.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/channel_create_stdapi_net_tcp_server.java
+END
+stdapi_fs_stat_V1_6.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_stat_V1_6.java
+END
+stdapi_fs_mkdir.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_mkdir.java
+END
+stdapi_net_socket_tcp_shutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_socket_tcp_shutdown.java
+END
+stdapi_sys_process_get_processes.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12372/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_sys_process_get_processes.java
+END
+Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/13346/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/Loader.java
+END
+stdapi_fs_getwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_getwd.java
+END
+webcam_audio_record_V1_4.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/12372/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/webcam_audio_record_V1_4.java
+END
+stdapi_ui_desktop_screenshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_ui_desktop_screenshot.java
+END
+stdapi_fs_stat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_stat.java
+END
+stdapi_net_config_get_routes_V1_4.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_config_get_routes_V1_4.java
+END
+stdapi_fs_ls.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_ls.java
+END
+channel_create_stdapi_net_udp_client.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/channel_create_stdapi_net_udp_client.java
+END
+webcam_audio_record.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12372/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/webcam_audio_record.java
+END
+stdapi_net_config_get_routes.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_config_get_routes.java
+END
+channel_create_stdapi_fs_file.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/channel_create_stdapi_fs_file.java
+END
+stdapi_sys_process_execute_V1_3.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_sys_process_execute_V1_3.java
+END
+stdapi_net_socket_tcp_shutdown_V1_3.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_socket_tcp_shutdown_V1_3.java
+END
+stdapi_fs_delete_file.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_delete_file.java
+END
+stdapi_fs_search.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_search.java
+END
+stdapi_sys_process_execute.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/11700/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_sys_process_execute.java
+END
+stdapi_sys_config_getuid.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_sys_config_getuid.java
+END
+channel_create_stdapi_net_tcp_client.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/channel_create_stdapi_net_tcp_client.java
+END
+stdapi_net_config_get_interfaces_V1_4.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_config_get_interfaces_V1_4.java
+END
+stdapi_net_config_get_interfaces_V1_6.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_config_get_interfaces_V1_6.java
+END
+stdapi_fs_file_expand_path_V1_5.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_file_expand_path_V1_5.java
+END
+stdapi_sys_config_sysinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_sys_config_sysinfo.java
+END
+stdapi_net_config_get_interfaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_net_config_get_interfaces.java
+END
+stdapi_fs_chdir.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_chdir.java
+END
+stdapi_fs_file_expand_path.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/10294/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_file_expand_path.java
+END
+stdapi_fs_delete_dir.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/13108/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_delete_dir.java
+END
+stdapi_fs_separator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/13346/framework3/trunk/external/source/meterpreter/java/src/stdapi/com/metasploit/meterpreter/stdapi/stdapi_fs_separator.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13183/framework3/trunk/modules/auxiliary/scanner/finger
+END
+finger_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13183/framework3/trunk/modules/auxiliary/scanner/finger/finger_users.rb
+END

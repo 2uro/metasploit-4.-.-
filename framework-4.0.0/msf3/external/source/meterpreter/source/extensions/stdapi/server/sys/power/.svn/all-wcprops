@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/sys/power
+END
+power.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/sys/power/power.h
+END
+power.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/extensions/stdapi/server/sys/power/power.c
+END

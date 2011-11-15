@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13381/framework3/trunk/modules/auxiliary/spoof/dns
+END
+bailiwicked_domain.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13381/framework3/trunk/modules/auxiliary/spoof/dns/bailiwicked_domain.rb
+END
+bailiwicked_host.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13381/framework3/trunk/modules/auxiliary/spoof/dns/bailiwicked_host.rb
+END
+compare_results.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9929/framework3/trunk/modules/auxiliary/spoof/dns/compare_results.rb
+END

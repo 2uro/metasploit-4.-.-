@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9804/framework3/trunk/modules/auxiliary/scanner/imap
+END
+imap_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9804/framework3/trunk/modules/auxiliary/scanner/imap/imap_version.rb
+END

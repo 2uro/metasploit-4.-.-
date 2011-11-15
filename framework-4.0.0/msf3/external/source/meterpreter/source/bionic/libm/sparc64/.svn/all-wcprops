@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64
+END
+fenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64/fenv.c
+END
+_fpmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64/_fpmath.h
+END
+e_sqrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64/e_sqrtf.S
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64/fenv.h
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64/Makefile.inc
+END
+e_sqrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/sparc64/e_sqrt.S
+END

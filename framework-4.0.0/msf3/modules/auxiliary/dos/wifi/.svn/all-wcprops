@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/wifi
+END
+file2air.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/dos/wifi/file2air.rb
+END
+apple_orinoco_probe_response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/12668/framework3/trunk/modules/auxiliary/dos/wifi/apple_orinoco_probe_response.rb
+END
+netgear_wg311pci.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/wifi/netgear_wg311pci.rb
+END
+cts_rts_flood.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/wifi/cts_rts_flood.rb
+END
+ssidlist_beacon.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/wifi/ssidlist_beacon.rb
+END
+fakeap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/wifi/fakeap.rb
+END
+netgear_ma521_rates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/dos/wifi/netgear_ma521_rates.rb
+END
+wifun.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/wifi/wifun.rb
+END
+deauth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10394/framework3/trunk/modules/auxiliary/dos/wifi/deauth.rb
+END
+probe_resp_null_ssid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/wifi/probe_resp_null_ssid.rb
+END

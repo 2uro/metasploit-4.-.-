@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11909/framework3/trunk/test/functional/meterpreter
+END
+meterpreter_php_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11909/framework3/trunk/test/functional/meterpreter/meterpreter_php_spec.rb
+END
+windows_meterpreter_specs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11509/framework3/trunk/test/functional/meterpreter/windows_meterpreter_specs.rb
+END
+meterpreter_spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11740/framework3/trunk/test/functional/meterpreter/meterpreter_spec_helper.rb
+END
+meterpreter_java_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11909/framework3/trunk/test/functional/meterpreter/meterpreter_java_spec.rb
+END
+meterpreter_win32_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11909/framework3/trunk/test/functional/meterpreter/meterpreter_win32_spec.rb
+END
+meterpreter_specs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11509/framework3/trunk/test/functional/meterpreter/meterpreter_specs.rb
+END
+java_meterpreter_specs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11509/framework3/trunk/test/functional/meterpreter/java_meterpreter_specs.rb
+END

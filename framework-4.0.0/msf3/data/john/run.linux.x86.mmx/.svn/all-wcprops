@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx
+END
+ldif2pw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/ldif2pw.pl
+END
+lanman.chr
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/lanman.chr
+END
+all.chr
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/all.chr
+END
+genincstats.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/genincstats.rb
+END
+rar2john
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/rar2john
+END
+alnum.chr
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/alnum.chr
+END
+sha-dump.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/sha-dump.pl
+END
+tgtsnarf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/tgtsnarf
+END
+unshadow
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/unshadow
+END
+netntlm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/netntlm.pl
+END
+calc_stat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/calc_stat
+END
+john
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/john
+END
+digits.chr
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/digits.chr
+END
+ssh2john
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/ssh2john
+END
+stats
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/stats
+END
+alpha.chr
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/alpha.chr
+END
+genmkvpwd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/genmkvpwd
+END
+sha-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/sha-test.pl
+END
+zip2john
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/zip2john
+END
+mkvcalcproba
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/mkvcalcproba
+END
+unique
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/unique
+END
+undrop
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/undrop
+END
+mailer
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/mailer
+END
+pdf2john
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/pdf2john
+END
+sap_prepare.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/sap_prepare.pl
+END
+unafs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/unafs
+END
+netscreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/13135/framework3/trunk/data/john/run.linux.x86.mmx/netscreen.py
+END

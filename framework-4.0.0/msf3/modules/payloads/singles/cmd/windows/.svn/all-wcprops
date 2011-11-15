@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13166/framework3/trunk/modules/payloads/singles/cmd/windows
+END
+bind_ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/windows/bind_ruby.rb
+END
+reverse_perl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/windows/reverse_perl.rb
+END
+bind_perl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/windows/bind_perl.rb
+END
+download_exec_vbs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12912/framework3/trunk/modules/payloads/singles/cmd/windows/download_exec_vbs.rb
+END
+adduser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12196/framework3/trunk/modules/payloads/singles/cmd/windows/adduser.rb
+END
+download_eval_vbs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13166/framework3/trunk/modules/payloads/singles/cmd/windows/download_eval_vbs.rb
+END
+reverse_ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/cmd/windows/reverse_ruby.rb
+END

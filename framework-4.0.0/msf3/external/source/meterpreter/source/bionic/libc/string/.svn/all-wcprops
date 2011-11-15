@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string
+END
+strndup.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strndup.c
+END
+strerror_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strerror_r.c
+END
+strcasecmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcasecmp.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memmove.c
+END
+strchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strchr.c
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/index.c
+END
+memchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memchr.c
+END
+bcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/bcopy.c
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strerror.c
+END
+strcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcpy.c
+END
+strrchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strrchr.c
+END
+strpbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strpbrk.c
+END
+strspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strspn.c
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memcpy.c
+END
+strtotimeval.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strtotimeval.c
+END
+memrchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memrchr.c
+END
+strlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strlcpy.c
+END
+strcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcat.c
+END
+strstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strstr.c
+END
+strncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strncpy.c
+END
+strxfrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strxfrm.c
+END
+strlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strlen.c
+END
+strcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcmp.c
+END
+memswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memswap.c
+END
+strlcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strlcat.c
+END
+memmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memmem.c
+END
+strncat.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strncat.c
+END
+memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memcmp.c
+END
+strsep.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strsep.c
+END
+strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strdup.c
+END
+strcoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcoll.c
+END
+strnlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strnlen.c
+END
+strncmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strncmp.c
+END
+strtok.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strtok.c
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memset.c
+END
+strcspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcspn.c
+END
+memccpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/memccpy.c
+END
+strcasestr.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/string/strcasestr.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/omnithread
+END
+omnithread.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/omnithread/omnithread.dsp
+END
+omnithread.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/omnithread/omnithread.h
+END
+nt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/omnithread/nt.cpp
+END
+nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/omnithread/nt.h
+END
+omnithread-vc8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8745/framework3/trunk/external/source/vncdll/winvnc/omnithread/omnithread-vc8.vcproj
+END
+omnithread.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8890/framework3/trunk/external/source/vncdll/winvnc/omnithread/omnithread.vcproj
+END

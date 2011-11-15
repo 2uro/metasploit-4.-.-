@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13332/framework3/trunk/external/source/meterpreter/source/bionic/libm
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/test.c
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/NOTICE
+END
+MODULE_LICENSE_BSD_LIKE
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/MODULE_LICENSE_BSD_LIKE
+END
+msfMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13332/framework3/trunk/external/source/meterpreter/source/bionic/libm/msfMakefile
+END
+fpclassify.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/fpclassify.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/Android.mk
+END
+isinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/isinf.c
+END
+Makefile-orig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/Makefile-orig
+END

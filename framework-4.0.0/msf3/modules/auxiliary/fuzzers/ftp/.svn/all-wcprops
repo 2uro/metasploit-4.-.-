@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13188/framework3/trunk/modules/auxiliary/fuzzers/ftp
+END
+ftp_pre_post.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12196/framework3/trunk/modules/auxiliary/fuzzers/ftp/ftp_pre_post.rb
+END
+client_ftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13188/framework3/trunk/modules/auxiliary/fuzzers/ftp/client_ftp.rb
+END

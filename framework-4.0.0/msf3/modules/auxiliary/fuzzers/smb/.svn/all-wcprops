@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11893/framework3/trunk/modules/auxiliary/fuzzers/smb
+END
+smb_negotiate_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/smb/smb_negotiate_corrupt.rb
+END
+smb_create_pipe_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/smb/smb_create_pipe_corrupt.rb
+END
+smb2_negotiate_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/smb/smb2_negotiate_corrupt.rb
+END
+smb_create_pipe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9212/framework3/trunk/modules/auxiliary/fuzzers/smb/smb_create_pipe.rb
+END
+smb_ntlm1_login_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11893/framework3/trunk/modules/auxiliary/fuzzers/smb/smb_ntlm1_login_corrupt.rb
+END
+smb_tree_connect_corrupt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/fuzzers/smb/smb_tree_connect_corrupt.rb
+END
+smb_tree_connect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/fuzzers/smb/smb_tree_connect.rb
+END

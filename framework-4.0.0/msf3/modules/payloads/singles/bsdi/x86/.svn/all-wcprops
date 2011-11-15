@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsdi/x86
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsdi/x86/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsdi/x86/shell_bind_tcp.rb
+END
+shell_find_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsdi/x86/shell_find_port.rb
+END

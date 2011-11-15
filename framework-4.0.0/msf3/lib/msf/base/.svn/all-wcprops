@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14233/framework3/trunk/lib/msf/base
+END
+persistent_storage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/base/persistent_storage.rb
+END
+config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14125/framework3/trunk/lib/msf/base/config.rb
+END
+logging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/base/logging.rb
+END
+simple.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12600/framework3/trunk/lib/msf/base/simple.rb
+END

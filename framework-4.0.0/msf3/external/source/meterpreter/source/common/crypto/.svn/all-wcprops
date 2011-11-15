@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/common/crypto
+END
+xor.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/common/crypto/xor.c
+END
+xor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6357/framework3/trunk/external/source/meterpreter/source/common/crypto/xor.h
+END

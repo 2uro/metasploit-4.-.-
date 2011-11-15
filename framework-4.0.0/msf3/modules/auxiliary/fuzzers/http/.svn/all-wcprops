@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13992/framework3/trunk/modules/auxiliary/fuzzers/http
+END
+http_form_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13992/framework3/trunk/modules/auxiliary/fuzzers/http/http_form_field.rb
+END
+http_get_uri_strings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7305/framework3/trunk/modules/auxiliary/fuzzers/http/http_get_uri_strings.rb
+END
+http_get_uri_long.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7305/framework3/trunk/modules/auxiliary/fuzzers/http/http_get_uri_long.rb
+END

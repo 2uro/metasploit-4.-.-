@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5773/framework3/trunk/lib/net/dns/resolver
+END
+socks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5773/framework3/trunk/lib/net/dns/resolver/socks.rb
+END
+timeouts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5773/framework3/trunk/lib/net/dns/resolver/timeouts.rb
+END

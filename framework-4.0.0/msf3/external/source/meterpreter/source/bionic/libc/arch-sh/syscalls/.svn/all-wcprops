@@ -1,0 +1,953 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls
+END
+__fcntl64.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__fcntl64.S
+END
+getuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getuid.S
+END
+__openat.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__openat.S
+END
+sched_get_priority_min.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_get_priority_min.S
+END
+ftruncate.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/ftruncate.S
+END
+setpriority.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setpriority.S
+END
+clock_nanosleep.S
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/clock_nanosleep.S
+END
+fchdir.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fchdir.S
+END
+access.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/access.S
+END
+__fcntl.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__fcntl.S
+END
+__set_thread_area.S
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__set_thread_area.S
+END
+_exit.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/_exit.S
+END
+clock_gettime.S
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/clock_gettime.S
+END
+acct.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/acct.S
+END
+__statfs64.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__statfs64.S
+END
+epoll_ctl.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/epoll_ctl.S
+END
+__syslog.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__syslog.S
+END
+sigaction.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sigaction.S
+END
+fstat.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fstat.S
+END
+times.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/times.S
+END
+__setreuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__setreuid.S
+END
+__pwrite64.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__pwrite64.S
+END
+clock_settime.S
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/clock_settime.S
+END
+truncate.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/truncate.S
+END
+unlinkat.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/unlinkat.S
+END
+getrusage.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getrusage.S
+END
+sendfile.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sendfile.S
+END
+lchown.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/lchown.S
+END
+write.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/write.S
+END
+__setuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__setuid.S
+END
+epoll_wait.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/epoll_wait.S
+END
+sched_setscheduler.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_setscheduler.S
+END
+__timer_create.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__timer_create.S
+END
+sched_getparam.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_getparam.S
+END
+sigaltstack.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sigaltstack.S
+END
+dup2.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/dup2.S
+END
+stat.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/stat.S
+END
+chown.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/chown.S
+END
+select.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/select.S
+END
+inotify_add_watch.S
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/inotify_add_watch.S
+END
+execve.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/execve.S
+END
+tkill.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/tkill.S
+END
+fsync.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fsync.S
+END
+__reboot.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__reboot.S
+END
+settimeofday.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/settimeofday.S
+END
+klogctl.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/klogctl.S
+END
+fchmod.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fchmod.S
+END
+mount.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mount.S
+END
+lseek.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/lseek.S
+END
+inotify_rm_watch.S
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/inotify_rm_watch.S
+END
+__ioctl.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__ioctl.S
+END
+fchownat.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fchownat.S
+END
+__brk.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__brk.S
+END
+sync.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sync.S
+END
+getdents.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getdents.S
+END
+__getpriority.S
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__getpriority.S
+END
+sigprocmask.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sigprocmask.S
+END
+getpgid.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getpgid.S
+END
+__rt_sigaction.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__rt_sigaction.S
+END
+__rt_sigprocmask.S
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__rt_sigprocmask.S
+END
+dup.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/dup.S
+END
+chdir.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/chdir.S
+END
+__timer_gettime.S
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__timer_gettime.S
+END
+mprotect.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mprotect.S
+END
+__rt_sigtimedwait.S
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__rt_sigtimedwait.S
+END
+_exit_thread.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/_exit_thread.S
+END
+setpgid.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setpgid.S
+END
+ioprio_get.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/ioprio_get.S
+END
+readv.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/readv.S
+END
+__pread64.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__pread64.S
+END
+capget.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/capget.S
+END
+uname.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/uname.S
+END
+getegid.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getegid.S
+END
+__timer_settime.S
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__timer_settime.S
+END
+fstatfs.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fstatfs.S
+END
+sched_yield.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_yield.S
+END
+ioprio_set.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/ioprio_set.S
+END
+getpid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getpid.S
+END
+__ptrace.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__ptrace.S
+END
+capset.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/capset.S
+END
+setgid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setgid.S
+END
+gettid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/gettid.S
+END
+writev.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/writev.S
+END
+__socketcall.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__socketcall.S
+END
+geteuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/geteuid.S
+END
+sigpending.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sigpending.S
+END
+msync.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/msync.S
+END
+sched_get_priority_max.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_get_priority_max.S
+END
+setsid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setsid.S
+END
+munmap.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/munmap.S
+END
+__timer_getoverrun.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__timer_getoverrun.S
+END
+__setresuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__setresuid.S
+END
+rename.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/rename.S
+END
+delete_module.S
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/delete_module.S
+END
+mknod.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mknod.S
+END
+getresgid.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getresgid.S
+END
+umask.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/umask.S
+END
+mremap.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mremap.S
+END
+waitid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/waitid.S
+END
+sched_getscheduler.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_getscheduler.S
+END
+prctl.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/prctl.S
+END
+lstat.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/lstat.S
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/vfork.S
+END
+madvise.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/madvise.S
+END
+readlink.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/readlink.S
+END
+setresgid.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setresgid.S
+END
+chmod.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/chmod.S
+END
+getresuid.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getresuid.S
+END
+__sys_clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__sys_clone.S
+END
+flock.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/flock.S
+END
+getrlimit.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getrlimit.S
+END
+__timer_delete.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__timer_delete.S
+END
+unlink.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/unlink.S
+END
+init_module.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/init_module.S
+END
+setrlimit.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setrlimit.S
+END
+getgroups.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getgroups.S
+END
+gettimeofday.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/gettimeofday.S
+END
+sched_setparam.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_setparam.S
+END
+__sigsuspend.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__sigsuspend.S
+END
+fchmodat.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fchmodat.S
+END
+getitimer.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getitimer.S
+END
+mkdirat.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mkdirat.S
+END
+kill.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/kill.S
+END
+setgroups.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setgroups.S
+END
+renameat.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/renameat.S
+END
+chroot.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/chroot.S
+END
+__open.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__open.S
+END
+__fork.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__fork.S
+END
+inotify_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/inotify_init.S
+END
+clock_getres.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/clock_getres.S
+END
+setitimer.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setitimer.S
+END
+mkdir.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mkdir.S
+END
+fstatat.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fstatat.S
+END
+umount2.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/umount2.S
+END
+__mmap2.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__mmap2.S
+END
+__getcwd.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__getcwd.S
+END
+rmdir.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/rmdir.S
+END
+pause.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/pause.S
+END
+__llseek.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__llseek.S
+END
+nanosleep.S
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/nanosleep.S
+END
+fchown.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/fchown.S
+END
+__wait4.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/__wait4.S
+END
+symlink.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/symlink.S
+END
+futex.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/futex.S
+END
+sched_rr_get_interval.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/sched_rr_get_interval.S
+END
+mincore.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mincore.S
+END
+getppid.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getppid.S
+END
+link.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/link.S
+END
+epoll_create.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/epoll_create.S
+END
+_waitpid.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/_waitpid.S
+END
+getgid.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/getgid.S
+END
+mlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/mlock.S
+END
+close.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/close.S
+END
+poll.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/poll.S
+END
+setregid.S
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/setregid.S
+END
+utimes.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/utimes.S
+END
+munlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/munlock.S
+END
+read.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/arch-sh/syscalls/read.S
+END

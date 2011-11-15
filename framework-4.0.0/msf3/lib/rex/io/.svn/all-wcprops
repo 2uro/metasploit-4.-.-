@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/13071/framework3/trunk/lib/rex/io
+END
+ring_buffer.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12694/framework3/trunk/lib/rex/io/ring_buffer.rb.ut.rb
+END
+stream_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12615/framework3/trunk/lib/rex/io/stream_server.rb
+END
+stream_abstraction.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13071/framework3/trunk/lib/rex/io/stream_abstraction.rb
+END
+bidirectional_pipe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8353/framework3/trunk/lib/rex/io/bidirectional_pipe.rb
+END
+ring_buffer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12516/framework3/trunk/lib/rex/io/ring_buffer.rb
+END
+datagram_abstraction.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/io/datagram_abstraction.rb
+END
+stream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12607/framework3/trunk/lib/rex/io/stream.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/lockd
+END
+xdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/lockd/xdr.h
+END
+nlm.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libc/kernel/common/linux/lockd/nlm.h
+END

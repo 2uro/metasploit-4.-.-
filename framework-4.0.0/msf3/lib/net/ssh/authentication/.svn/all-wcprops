@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11547/framework3/trunk/lib/net/ssh/authentication
+END
+agent.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9046/framework3/trunk/lib/net/ssh/authentication/agent.rb
+END
+pageant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/authentication/pageant.rb
+END
+key_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/authentication/key_manager.rb
+END
+session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9098/framework3/trunk/lib/net/ssh/authentication/session.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/authentication/constants.rb
+END

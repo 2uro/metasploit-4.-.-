@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6122/framework3/trunk/external/serialport
+END
+README.msf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/README.msf
+END
+serialport.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/serialport.c
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/MANIFEST
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/CHANGELOG
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/extconf.rb
+END
+README.orig
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6117/framework3/trunk/external/serialport/README.orig
+END

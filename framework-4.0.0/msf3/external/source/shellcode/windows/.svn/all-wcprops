@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14207/framework3/trunk/external/source/shellcode/windows
+END
+stager_bind_ipv6_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10543/framework3/trunk/external/source/shellcode/windows/stager_bind_ipv6_tcp_nx.asm
+END
+single_shell_reverse_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/single_shell_reverse_tcp.asm
+END
+single_shell_bind_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/single_shell_bind_tcp.asm
+END
+stage_upexec.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stage_upexec.asm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5637/framework3/trunk/external/source/shellcode/windows/README
+END
+single_shell_bind_tcp_xpfw.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/single_shell_bind_tcp_xpfw.asm
+END
+stager_reverse_http.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stager_reverse_http.asm
+END
+midstager.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6744/framework3/trunk/external/source/shellcode/windows/midstager.asm
+END
+stager_find_tag.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stager_find_tag.asm
+END
+single_exec.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/single_exec.asm
+END
+stager_reverse_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stager_reverse_tcp.asm
+END
+stager_bind_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stager_bind_tcp.asm
+END
+single_adduser.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/single_adduser.asm
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6744/framework3/trunk/external/source/shellcode/windows/build.sh
+END
+stage_shell.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stage_shell.asm
+END
+stager_reverse_ord_tcp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4813/framework3/trunk/external/source/shellcode/windows/stager_reverse_ord_tcp.asm
+END
+stager_reverse_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6744/framework3/trunk/external/source/shellcode/windows/stager_reverse_tcp_nx.asm
+END
+stager_bind_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6744/framework3/trunk/external/source/shellcode/windows/stager_bind_tcp_nx.asm
+END
+stager_reverse_ipv6_tcp_nx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7222/framework3/trunk/external/source/shellcode/windows/stager_reverse_ipv6_tcp_nx.asm
+END

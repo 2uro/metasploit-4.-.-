@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12530/framework3/trunk/lib/snmp
+END
+agent.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6529/framework3/trunk/lib/snmp/agent.rb
+END
+varbind.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6529/framework3/trunk/lib/snmp/varbind.rb
+END
+mib.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6529/framework3/trunk/lib/snmp/mib.rb
+END
+ber.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12530/framework3/trunk/lib/snmp/ber.rb
+END
+pdu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6529/framework3/trunk/lib/snmp/pdu.rb
+END
+manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11413/framework3/trunk/lib/snmp/manager.rb
+END

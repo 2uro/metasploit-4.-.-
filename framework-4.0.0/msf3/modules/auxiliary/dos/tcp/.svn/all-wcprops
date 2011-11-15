@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/tcp
+END
+synflood.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/13342/framework3/trunk/modules/auxiliary/dos/tcp/synflood.rb
+END
+junos_tcp_opt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13963/framework3/trunk/modules/auxiliary/dos/tcp/junos_tcp_opt.rb
+END

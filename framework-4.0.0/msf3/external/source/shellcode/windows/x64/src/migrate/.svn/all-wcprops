@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8786/framework3/trunk/external/source/shellcode/windows/x64/src/migrate
+END
+apc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8786/framework3/trunk/external/source/shellcode/windows/x64/src/migrate/apc.asm
+END
+remotethread.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8197/framework3/trunk/external/source/shellcode/windows/x64/src/migrate/remotethread.asm
+END
+migrate.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8197/framework3/trunk/external/source/shellcode/windows/x64/src/migrate/migrate.asm
+END

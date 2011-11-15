@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14217/framework3/trunk/modules/auxiliary/admin/http
+END
+tomcat_utf8_traversal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/admin/http/tomcat_utf8_traversal.rb
+END
+hp_web_jetadmin_exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/admin/http/hp_web_jetadmin_exec.rb
+END
+typo3_sa_2010_020.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14181/framework3/trunk/modules/auxiliary/admin/http/typo3_sa_2010_020.rb
+END
+typo3_winstaller_default_enc_keys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14181/framework3/trunk/modules/auxiliary/admin/http/typo3_winstaller_default_enc_keys.rb
+END
+contentkeeper_fileaccess.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12288/framework3/trunk/modules/auxiliary/admin/http/contentkeeper_fileaccess.rb
+END
+trendmicro_dlp_traversal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13962/framework3/trunk/modules/auxiliary/admin/http/trendmicro_dlp_traversal.rb
+END
+jboss_seam_exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14217/framework3/trunk/modules/auxiliary/admin/http/jboss_seam_exec.rb
+END
+iomega_storcenterpro_sessionid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/admin/http/iomega_storcenterpro_sessionid.rb
+END
+typo3_sa_2009_001.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14181/framework3/trunk/modules/auxiliary/admin/http/typo3_sa_2009_001.rb
+END
+tomcat_administration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13394/framework3/trunk/modules/auxiliary/admin/http/tomcat_administration.rb
+END
+typo3_sa_2009_002.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/admin/http/typo3_sa_2009_002.rb
+END

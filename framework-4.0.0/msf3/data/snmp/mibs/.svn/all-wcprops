@@ -1,0 +1,1157 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs
+END
+HDSL2-SHDSL-LINE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HDSL2-SHDSL-LINE-MIB.yaml
+END
+COPS-CLIENT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/COPS-CLIENT-MIB.yaml
+END
+RFC1414-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1414-MIB.yaml
+END
+RFC1381-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1381-MIB.yaml
+END
+IPOA-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPOA-MIB.yaml
+END
+FR-MFR-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FR-MFR-MIB.yaml
+END
+VRRP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/VRRP-MIB.yaml
+END
+MPLS-LDP-GENERIC-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-LDP-GENERIC-STD-MIB.yaml
+END
+SFLOW-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SFLOW-MIB.yaml
+END
+PARALLEL-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PARALLEL-MIB.yaml
+END
+ISDN-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ISDN-MIB.yaml
+END
+RMON2-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RMON2-MIB.yaml
+END
+VDSL-LINE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/VDSL-LINE-MIB.yaml
+END
+ROHC-RTP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ROHC-RTP-MIB.yaml
+END
+IF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IF-MIB.yaml
+END
+CIRCUIT-IF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/CIRCUIT-IF-MIB.yaml
+END
+IPATM-IPMC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPATM-IPMC-MIB.yaml
+END
+ETHER-WIS.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ETHER-WIS.yaml
+END
+ATM2-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ATM2-MIB.yaml
+END
+DISMAN-SCHEDULE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-SCHEDULE-MIB.yaml
+END
+OSPF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/OSPF-MIB.yaml
+END
+POWER-ETHERNET-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/POWER-ETHERNET-MIB.yaml
+END
+PINT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PINT-MIB.yaml
+END
+RMON-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RMON-MIB.yaml
+END
+DISMAN-SCRIPT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-SCRIPT-MIB.yaml
+END
+APPLETALK-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APPLETALK-MIB.yaml
+END
+FRNETSERV-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FRNETSERV-MIB.yaml
+END
+RFC1213-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1213-MIB.yaml
+END
+SNMPv2-USEC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMPv2-USEC-MIB.yaml
+END
+MAU-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MAU-MIB.yaml
+END
+APS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APS-MIB.yaml
+END
+MIOX25-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MIOX25-MIB.yaml
+END
+INTEGRATED-SERVICES-GUARANTEED-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/INTEGRATED-SERVICES-GUARANTEED-MIB.yaml
+END
+HC-ALARM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HC-ALARM-MIB.yaml
+END
+ATM-TC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ATM-TC-MIB.yaml
+END
+DOT12-IF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DOT12-IF-MIB.yaml
+END
+TN3270E-RT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TN3270E-RT-MIB.yaml
+END
+AGENTX-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/AGENTX-MIB.yaml
+END
+RFC1382-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1382-MIB.yaml
+END
+P-BRIDGE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/P-BRIDGE-MIB.yaml
+END
+Q-BRIDGE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/Q-BRIDGE-MIB.yaml
+END
+RFC1285-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1285-MIB.yaml
+END
+RFC1269-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1269-MIB.yaml
+END
+DIFFSERV-DSCP-TC.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DIFFSERV-DSCP-TC.yaml
+END
+SNMP-VIEW-BASED-ACM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-VIEW-BASED-ACM-MIB.yaml
+END
+HC-RMON-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HC-RMON-MIB.yaml
+END
+SNA-SDLC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNA-SDLC-MIB.yaml
+END
+RTP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RTP-MIB.yaml
+END
+DECNET-PHIV-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DECNET-PHIV-MIB.yaml
+END
+NHRP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/NHRP-MIB.yaml
+END
+MALLOC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MALLOC-MIB.yaml
+END
+DIRECTORY-SERVER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DIRECTORY-SERVER-MIB.yaml
+END
+IP-FORWARD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IP-FORWARD-MIB.yaml
+END
+PPP-LCP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PPP-LCP-MIB.yaml
+END
+TRANSPORT-ADDRESS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TRANSPORT-ADDRESS-MIB.yaml
+END
+DS0BUNDLE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DS0BUNDLE-MIB.yaml
+END
+MPLS-LDP-FRAME-RELAY-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-LDP-FRAME-RELAY-STD-MIB.yaml
+END
+PIM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PIM-MIB.yaml
+END
+HOST-RESOURCES-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HOST-RESOURCES-MIB.yaml
+END
+RADIUS-ACC-CLIENT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RADIUS-ACC-CLIENT-MIB.yaml
+END
+UDP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/UDP-MIB.yaml
+END
+BRIDGE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/BRIDGE-MIB.yaml
+END
+OPT-IF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/OPT-IF-MIB.yaml
+END
+SNMP-USM-DH-OBJECTS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-USM-DH-OBJECTS-MIB.yaml
+END
+HPR-IP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HPR-IP-MIB.yaml
+END
+DOCS-BPI-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DOCS-BPI-MIB.yaml
+END
+SNMP-TARGET-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-TARGET-MIB.yaml
+END
+TN3270E-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TN3270E-MIB.yaml
+END
+SNMPv2-SMI.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMPv2-SMI.yaml
+END
+MPLS-TC-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-TC-STD-MIB.yaml
+END
+PPP-BRIDGE-NCP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PPP-BRIDGE-NCP-MIB.yaml
+END
+ADSL-LINE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ADSL-LINE-MIB.yaml
+END
+ACCOUNTING-CONTROL-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ACCOUNTING-CONTROL-MIB.yaml
+END
+IP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IP-MIB.yaml
+END
+FRSLD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FRSLD-MIB.yaml
+END
+IPV6-UDP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPV6-UDP-MIB.yaml
+END
+EtherLike-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/EtherLike-MIB.yaml
+END
+ENTITY-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ENTITY-MIB.yaml
+END
+APM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APM-MIB.yaml
+END
+FRAME-RELAY-DTE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FRAME-RELAY-DTE-MIB.yaml
+END
+RADIUS-ACC-SERVER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RADIUS-ACC-SERVER-MIB.yaml
+END
+DSMON-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DSMON-MIB.yaml
+END
+MPLS-LDP-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-LDP-STD-MIB.yaml
+END
+ATM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ATM-MIB.yaml
+END
+L2TP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/L2TP-MIB.yaml
+END
+MTA-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MTA-MIB.yaml
+END
+DNS-RESOLVER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DNS-RESOLVER-MIB.yaml
+END
+DOCS-IF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DOCS-IF-MIB.yaml
+END
+IPV6-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPV6-MIB.yaml
+END
+RFC1271-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1271-MIB.yaml
+END
+FIBRE-CHANNEL-FE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FIBRE-CHANNEL-FE-MIB.yaml
+END
+ADSL-TC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ADSL-TC-MIB.yaml
+END
+SONET-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SONET-MIB.yaml
+END
+RFC1158-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1158-MIB.yaml
+END
+RSVP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RSVP-MIB.yaml
+END
+ROHC-UNCOMPRESSED-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ROHC-UNCOMPRESSED-MIB.yaml
+END
+Modem-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/Modem-MIB.yaml
+END
+EBN-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/EBN-MIB.yaml
+END
+TUNNEL-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TUNNEL-MIB.yaml
+END
+IPV6-FLOW-LABEL-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPV6-FLOW-LABEL-MIB.yaml
+END
+NETWORK-SERVICES-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/NETWORK-SERVICES-MIB.yaml
+END
+HOST-RESOURCES-TYPES.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HOST-RESOURCES-TYPES.yaml
+END
+Printer-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/Printer-MIB.yaml
+END
+APPC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APPC-MIB.yaml
+END
+MIP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MIP-MIB.yaml
+END
+DS0-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DS0-MIB.yaml
+END
+RS-232-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RS-232-MIB.yaml
+END
+SNMP-PROXY-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-PROXY-MIB.yaml
+END
+SNMP-COMMUNITY-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-COMMUNITY-MIB.yaml
+END
+CLNS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/CLNS-MIB.yaml
+END
+TOKENRING-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TOKENRING-MIB.yaml
+END
+INTERFACETOPN-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/INTERFACETOPN-MIB.yaml
+END
+PTOPO-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PTOPO-MIB.yaml
+END
+RIPv2-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RIPv2-MIB.yaml
+END
+NOTIFICATION-LOG-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/NOTIFICATION-LOG-MIB.yaml
+END
+GSMP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/GSMP-MIB.yaml
+END
+TCPIPX-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TCPIPX-MIB.yaml
+END
+RFC1065-SMI.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1065-SMI.yaml
+END
+RDBMS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RDBMS-MIB.yaml
+END
+DIFFSERV-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DIFFSERV-MIB.yaml
+END
+MPLS-TE-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-TE-STD-MIB.yaml
+END
+OSPF-TRAP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/OSPF-TRAP-MIB.yaml
+END
+SMON-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SMON-MIB.yaml
+END
+SNMP-REPEATER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-REPEATER-MIB.yaml
+END
+ENTITY-SENSOR-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ENTITY-SENSOR-MIB.yaml
+END
+SNMPv2-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMPv2-MIB.yaml
+END
+TCP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TCP-MIB.yaml
+END
+DISMAN-TRACEROUTE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-TRACEROUTE-MIB.yaml
+END
+TOKEN-RING-RMON-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TOKEN-RING-RMON-MIB.yaml
+END
+DIAL-CONTROL-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DIAL-CONTROL-MIB.yaml
+END
+DS1-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DS1-MIB.yaml
+END
+DNS-SERVER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DNS-SERVER-MIB.yaml
+END
+HPR-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HPR-MIB.yaml
+END
+DOCS-CABLE-DEVICE-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DOCS-CABLE-DEVICE-MIB.yaml
+END
+DISMAN-EVENT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-EVENT-MIB.yaml
+END
+ROHC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ROHC-MIB.yaml
+END
+SNMP-MPD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-MPD-MIB.yaml
+END
+IPMROUTE-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPMROUTE-STD-MIB.yaml
+END
+BGP4-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/BGP4-MIB.yaml
+END
+ATM-ACCOUNTING-INFORMATION-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ATM-ACCOUNTING-INFORMATION-MIB.yaml
+END
+SNMP-NOTIFICATION-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-NOTIFICATION-MIB.yaml
+END
+TOKENRING-STATION-SR-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/TOKENRING-STATION-SR-MIB.yaml
+END
+APPLICATION-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APPLICATION-MIB.yaml
+END
+PPP-SEC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PPP-SEC-MIB.yaml
+END
+Finisher-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/Finisher-MIB.yaml
+END
+DSA-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DSA-MIB.yaml
+END
+RFC1155-SMI.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1155-SMI.yaml
+END
+UPS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/UPS-MIB.yaml
+END
+IPV6-TCP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPV6-TCP-MIB.yaml
+END
+DIFFSERV-CONFIG-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DIFFSERV-CONFIG-MIB.yaml
+END
+IF-INVERTED-STACK-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IF-INVERTED-STACK-MIB.yaml
+END
+FDDI-SMT73-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FDDI-SMT73-MIB.yaml
+END
+INET-ADDRESS-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/INET-ADDRESS-MIB.yaml
+END
+IGMP-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IGMP-STD-MIB.yaml
+END
+WWW-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/WWW-MIB.yaml
+END
+SOURCE-ROUTING-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SOURCE-ROUTING-MIB.yaml
+END
+COFFEE-POT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/COFFEE-POT-MIB.yaml
+END
+PerfHist-TC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PerfHist-TC-MIB.yaml
+END
+SIP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SIP-MIB.yaml
+END
+Job-Monitoring-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/Job-Monitoring-MIB.yaml
+END
+IPV6-MLD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPV6-MLD-MIB.yaml
+END
+SNMPv2-TM.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMPv2-TM.yaml
+END
+APPN-DLUR-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APPN-DLUR-MIB.yaml
+END
+APPN-TRAP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APPN-TRAP-MIB.yaml
+END
+RADIUS-AUTH-CLIENT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RADIUS-AUTH-CLIENT-MIB.yaml
+END
+SNA-NAU-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNA-NAU-MIB.yaml
+END
+ADSL-LINE-EXT-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ADSL-LINE-EXT-MIB.yaml
+END
+DISMAN-EXPRESSION-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-EXPRESSION-MIB.yaml
+END
+SNMP-FRAMEWORK-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-FRAMEWORK-MIB.yaml
+END
+HCNUM-TC.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HCNUM-TC.yaml
+END
+DLSW-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DLSW-MIB.yaml
+END
+IPV6-ICMP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/IPV6-ICMP-MIB.yaml
+END
+SLAPM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SLAPM-MIB.yaml
+END
+HC-PerfHist-TC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/HC-PerfHist-TC-MIB.yaml
+END
+FLOW-METER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FLOW-METER-MIB.yaml
+END
+SNMP-USER-BASED-SM-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SNMP-USER-BASED-SM-MIB.yaml
+END
+PPP-IP-NCP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/PPP-IP-NCP-MIB.yaml
+END
+DISMAN-NSLOOKUP-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-NSLOOKUP-MIB.yaml
+END
+RFC1316-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RFC1316-MIB.yaml
+END
+BLDG-HVAC-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/BLDG-HVAC-MIB.yaml
+END
+MPLS-FTN-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-FTN-STD-MIB.yaml
+END
+DS3-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DS3-MIB.yaml
+END
+RADIUS-AUTH-SERVER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/RADIUS-AUTH-SERVER-MIB.yaml
+END
+SYSAPPL-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/SYSAPPL-MIB.yaml
+END
+CHARACTER-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/CHARACTER-MIB.yaml
+END
+FR-ATM-PVC-SERVICE-IWF-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/FR-ATM-PVC-SERVICE-IWF-MIB.yaml
+END
+APPN-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/APPN-MIB.yaml
+END
+MPLS-LDP-ATM-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-LDP-ATM-STD-MIB.yaml
+END
+MPLS-LSR-STD-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/MPLS-LSR-STD-MIB.yaml
+END
+ETHER-CHIPSET-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/ETHER-CHIPSET-MIB.yaml
+END
+DISMAN-PING-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/DISMAN-PING-MIB.yaml
+END
+INTEGRATED-SERVICES-MIB.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14221/framework3/trunk/data/snmp/mibs/INTEGRATED-SERVICES-MIB.yaml
+END

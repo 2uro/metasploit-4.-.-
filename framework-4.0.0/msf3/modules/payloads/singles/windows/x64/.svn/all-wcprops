@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10394/framework3/trunk/modules/payloads/singles/windows/x64
+END
+exec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10394/framework3/trunk/modules/payloads/singles/windows/x64/exec.rb
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8642/framework3/trunk/modules/payloads/singles/windows/x64/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8642/framework3/trunk/modules/payloads/singles/windows/x64/shell_bind_tcp.rb
+END

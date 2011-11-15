@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8447/framework3/trunk/lib/rex/zip/samples
+END
+mkwar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8447/framework3/trunk/lib/rex/zip/samples/mkwar.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8447/framework3/trunk/lib/rex/zip/samples/comment.rb
+END
+recursive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8447/framework3/trunk/lib/rex/zip/samples/recursive.rb
+END
+mkzip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8447/framework3/trunk/lib/rex/zip/samples/mkzip.rb
+END

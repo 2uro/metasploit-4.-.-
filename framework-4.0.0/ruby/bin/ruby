@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /opt/framework-4.0.0/scripts/setenv.sh
+
+exec /opt/framework-4.0.0/ruby/bin/.ruby.bin  "$@"

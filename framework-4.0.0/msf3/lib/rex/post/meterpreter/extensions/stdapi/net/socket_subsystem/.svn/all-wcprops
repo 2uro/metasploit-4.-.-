@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/net/socket_subsystem
+END
+udp_channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10759/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/net/socket_subsystem/udp_channel.rb
+END
+tcp_server_channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9140/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/net/socket_subsystem/tcp_server_channel.rb
+END
+tcp_client_channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/post/meterpreter/extensions/stdapi/net/socket_subsystem/tcp_client_channel.rb
+END

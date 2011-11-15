@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13551/framework3/trunk/lib/rex/proto/tftp
+END
+server.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9333/framework3/trunk/lib/rex/proto/tftp/server.rb.ut.rb
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13551/framework3/trunk/lib/rex/proto/tftp/server.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9962/framework3/trunk/lib/rex/proto/tftp/constants.rb
+END

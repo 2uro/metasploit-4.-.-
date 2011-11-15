@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11674/framework3/trunk/test/functional/framework/msftest/resource
+END
+help.rc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11674/framework3/trunk/test/functional/framework/msftest/resource/help.rc
+END
+exit.rc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11674/framework3/trunk/test/functional/framework/msftest/resource/exit.rc
+END

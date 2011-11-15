@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/arch
+END
+x86.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/arch/x86.rb.ut.rb
+END
+sparc.rb.ut.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/arch/sparc.rb.ut.rb
+END
+x86.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/arch/x86.rb
+END
+sparc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12196/framework3/trunk/lib/rex/arch/sparc.rb
+END

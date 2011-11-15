@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/session/provider
+END
+multi_command_shell.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/session/provider/multi_command_shell.rb
+END
+single_command_execution.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/session/provider/single_command_execution.rb
+END
+single_command_shell.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/session/provider/single_command_shell.rb
+END
+multi_command_execution.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12196/framework3/trunk/lib/msf/core/session/provider/multi_command_execution.rb
+END

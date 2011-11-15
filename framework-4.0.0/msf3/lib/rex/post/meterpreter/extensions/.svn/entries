@@ -1,0 +1,49 @@
+10
+
+dir
+14242
+https://www.metasploit.com/svn/framework3/trunk/lib/rex/post/meterpreter/extensions
+https://www.metasploit.com/svn
+
+
+
+2011-10-12T23:14:10.615389Z
+13894
+darkoperator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4d416f70-5f16-0410-b530-b9f4589650da
+
+priv
+dir
+
+espia
+dir
+
+stdapi
+dir
+
+networkpug
+dir
+
+lanattacks
+dir
+
+incognito
+dir
+
+sniffer
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/proto/ntlm
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12223/framework3/trunk/lib/rex/proto/ntlm/utils.rb
+END
+crypt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11936/framework3/trunk/lib/rex/proto/ntlm/crypt.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12223/framework3/trunk/lib/rex/proto/ntlm/exceptions.rb
+END
+message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12600/framework3/trunk/lib/rex/proto/ntlm/message.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11893/framework3/trunk/lib/rex/proto/ntlm/base.rb
+END
+constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11893/framework3/trunk/lib/rex/proto/ntlm/constants.rb
+END

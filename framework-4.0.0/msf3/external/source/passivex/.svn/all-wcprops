@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex
+END
+PassiveXLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/PassiveXLib.h
+END
+PassiveX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/PassiveX.cpp
+END
+dlldata.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/dlldata.c
+END
+HttpTunnel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/HttpTunnel.cpp
+END
+CPassiveX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/CPassiveX.cpp
+END
+PassiveX.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/PassiveX.h
+END
+PassiveX_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/PassiveX_i.c
+END
+HttpTunnel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/HttpTunnel.h
+END
+CPassiveX.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/CPassiveX.h
+END
+passivex.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/passivex.sln
+END
+passivex.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/passivex.def
+END
+PassiveX_p.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/PassiveX_p.c
+END
+passivex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/passivex.vcproj
+END
+passivex.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7461/framework3/trunk/external/source/passivex/passivex.rc
+END
+PassiveX.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/PassiveX.bin
+END
+PassiveX.idl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/PassiveX.idl
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3675/framework3/trunk/external/source/passivex/resource.h
+END

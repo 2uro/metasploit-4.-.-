@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsd/sparc
+END
+shell_reverse_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsd/sparc/shell_reverse_tcp.rb
+END
+shell_bind_tcp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8615/framework3/trunk/modules/payloads/singles/bsd/sparc/shell_bind_tcp.rb
+END

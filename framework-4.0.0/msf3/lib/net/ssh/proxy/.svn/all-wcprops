@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11686/framework3/trunk/lib/net/ssh/proxy
+END
+http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11686/framework3/trunk/lib/net/ssh/proxy/http.rb
+END
+socks4.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11686/framework3/trunk/lib/net/ssh/proxy/socks4.rb
+END
+socks5.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11686/framework3/trunk/lib/net/ssh/proxy/socks5.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/proxy/errors.rb
+END

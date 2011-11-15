@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/samba
+END
+lsa_transnames_heap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/samba/lsa_transnames_heap.rb
+END
+lsa_addprivs_heap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9179/framework3/trunk/modules/auxiliary/dos/samba/lsa_addprivs_heap.rb
+END

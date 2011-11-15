@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13351/framework3/trunk/lib/metasm/metasm/os
+END
+gnu_exports.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/metasm/os/gnu_exports.rb
+END
+windows_exports.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13351/framework3/trunk/lib/metasm/metasm/os/windows_exports.rb
+END
+linux.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/metasm/os/linux.rb
+END
+main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/metasm/os/main.rb
+END
+windows.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/metasm/os/windows.rb
+END
+remote.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/metasm/os/remote.rb
+END

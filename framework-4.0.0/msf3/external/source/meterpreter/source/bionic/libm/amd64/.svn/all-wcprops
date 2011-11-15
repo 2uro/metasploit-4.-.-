@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64
+END
+fenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/fenv.c
+END
+s_lrintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_lrintf.S
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/fenv.h
+END
+s_scalbn.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_scalbn.S
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/Makefile.inc
+END
+s_llrint.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_llrint.S
+END
+s_scalbnf.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_scalbnf.S
+END
+s_remquo.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_remquo.S
+END
+s_llrintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_llrintf.S
+END
+e_sqrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/e_sqrt.S
+END
+s_scalbnl.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_scalbnl.S
+END
+s_remquof.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_remquof.S
+END
+e_sqrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/e_sqrtf.S
+END
+_fpmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/_fpmath.h
+END
+s_lrint.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10154/framework3/trunk/external/source/meterpreter/source/bionic/libm/amd64/s_lrint.S
+END

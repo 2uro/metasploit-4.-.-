@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/verifiers
+END
+lenient.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/verifiers/lenient.rb
+END
+strict.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/verifiers/strict.rb
+END
+null.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8523/framework3/trunk/lib/net/ssh/verifiers/null.rb
+END

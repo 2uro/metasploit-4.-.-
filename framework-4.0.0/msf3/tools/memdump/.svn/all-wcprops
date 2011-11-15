@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4279/framework3/trunk/tools/memdump
+END
+README.memdump
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4279/framework3/trunk/tools/memdump/README.memdump
+END
+memdump.exe
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4279/framework3/trunk/tools/memdump/memdump.exe
+END
+memdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4279/framework3/trunk/tools/memdump/memdump.c
+END

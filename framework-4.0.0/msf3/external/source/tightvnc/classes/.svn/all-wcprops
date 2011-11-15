@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes
+END
+ReloginPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/ReloginPanel.class
+END
+VncViewer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/VncViewer.jar
+END
+SocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/SocketFactory.class
+END
+MemInStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/MemInStream.class
+END
+AuthPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/AuthPanel.class
+END
+InStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/InStream.class
+END
+VncCanvas.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/VncCanvas.class
+END
+RecordingFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/RecordingFrame.class
+END
+index.vnc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/index.vnc
+END
+CapsContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/CapsContainer.class
+END
+HTTPConnectSocketFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/HTTPConnectSocketFactory.class
+END
+ButtonPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/ButtonPanel.class
+END
+RfbProto.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/RfbProto.class
+END
+CapabilityInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/CapabilityInfo.class
+END
+HTTPConnectSocket.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/HTTPConnectSocket.class
+END
+ZlibInStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/ZlibInStream.class
+END
+VncCanvas2.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/VncCanvas2.class
+END
+OptionsFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/OptionsFrame.class
+END
+DesCipher.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/DesCipher.class
+END
+VncViewer.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/VncViewer.class
+END
+SessionRecorder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/SessionRecorder.class
+END
+ClipboardFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8648/framework3/trunk/external/source/tightvnc/classes/ClipboardFrame.class
+END

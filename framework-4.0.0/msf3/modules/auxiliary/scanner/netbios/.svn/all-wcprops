@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13702/framework3/trunk/modules/auxiliary/scanner/netbios
+END
+nbname.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13702/framework3/trunk/modules/auxiliary/scanner/netbios/nbname.rb
+END
+nbname_probe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12517/framework3/trunk/modules/auxiliary/scanner/netbios/nbname_probe.rb
+END

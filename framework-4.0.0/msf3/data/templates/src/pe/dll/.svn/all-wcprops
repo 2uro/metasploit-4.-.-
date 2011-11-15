@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/dll
+END
+template.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/dll/template.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10065/framework3/trunk/data/templates/src/pe/dll/build.sh
+END
+template.def
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/dll/template.def
+END
+template.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/dll/template.c
+END
+template.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14221/framework3/trunk/data/templates/src/pe/dll/template.rc
+END

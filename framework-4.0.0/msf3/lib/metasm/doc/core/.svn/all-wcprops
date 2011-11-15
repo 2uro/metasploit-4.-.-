@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core
+END
+SerialStruct.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/core/SerialStruct.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/core/index.txt
+END
+ExeFormat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10278/framework3/trunk/lib/metasm/doc/core/ExeFormat.txt
+END
+DynLdr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core/DynLdr.txt
+END
+VirtualString.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core/VirtualString.txt
+END
+GNUExports.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core/GNUExports.txt
+END
+Ia32.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core/Ia32.txt
+END
+Expression.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core/Expression.txt
+END
+WindowsExports.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12252/framework3/trunk/lib/metasm/doc/core/WindowsExports.txt
+END
